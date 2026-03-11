@@ -16,15 +16,21 @@
 .tb-challenge { border-collapse: collapse; }
 .tb-challenge td { border: none; vertical-align: top; }
 
-/* Section headings like old site */
+/* Section headings like old site (jemdoc: color #054095, font-size 125%) */
+.page__content h1,
 .page__content h2 {
-  margin-top: 1.5em;
+  color: #054095;
+  margin-top: 0.7em;
   margin-bottom: 0.5em;
-  font-size: 1.35em;
+  padding-top: 0.8em;
+  padding-bottom: 0.2em;
+  font-size: 125%;
+  line-height: 1.2;
   border-bottom: none;
-  padding-bottom: 0;
 }
-.page__content h2:first-of-type { margin-top: -10px; }
+.page__content h1:first-of-type,
+.page__content h2:first-of-type { margin-top: -10px; padding-top: 0; }
+.page__content h1 { font-size: 165%; padding-bottom: 0.3em; }
 
 /* Spacing between sections */
 .page__content .section-block { margin-bottom: 1.5em; }

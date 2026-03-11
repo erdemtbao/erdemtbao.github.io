@@ -4,10 +4,12 @@ layout: default
 
 {% include base_path %}
 
-<div id="main" role="main" class="home-old__main">
+<div id="main" role="main">
+  {% include sidebar.html %}
+
   <article class="page home-old__article">
     <div class="page__inner-wrap">
-      <section class="page__content page__content--full" itemprop="text">
+      <section class="page__content page__content--full home-old__main" itemprop="text">
         {{ content }}
       </section>
     </div>

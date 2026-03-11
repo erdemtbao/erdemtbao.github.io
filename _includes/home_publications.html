@@ -1,23 +1,24 @@
 {% include base_path %}
-{% for post in site.publications reversed %}
+{% assign sorted_pubs = site.publications | sort: "order" %}
+{% for post in sorted_pubs %}
 <table class="tb-publications" style="width: 100%; border: none; margin-bottom: 0; {% if forloop.index0 == 0 or forloop.index0 == 1 %}background-color: #ffffdf;{% endif %}">
   <tbody>
     <tr>
-      <td style="width: 200px; padding: 10px; vertical-align: top;">
+      <td style="width: 200px; padding-top: 10px; padding-bottom: 10px; vertical-align: top;">
         <div class="container">
           {% if post.teaser_video %}
-            <video autoplay loop muted width="180" playsinline webkit-playsinline style="box-shadow: 4px 4px 4px #888888;">
+            <video autoplay loop muted width="180px" playsinline webkit-playsinline style="box-shadow: 4px 4px 4px #888888; margin-left: 10px; margin-right: 10px;">
               <source src="{{ post.teaser | prepend: base_path }}" type="video/mp4">
             </video>
           {% else %}
-            <img src="{{ post.teaser | prepend: base_path }}" width="180" style="box-shadow: 4px 4px 4px #888888;" alt="">
+            <img src="{{ post.teaser | prepend: base_path }}" width="180px" style="box-shadow: 4px 4px 4px #888888; margin-left: 10px; margin-right: 10px;" alt="">
           {% endif %}
         </div>
       </td>
       <td style="padding: 10px; vertical-align: top;">
         <b style="font-size: 15px; color: #054095;"><a href="{{ base_path }}{{ post.url }}" style="color: inherit;">{{ post.title }}</a></b>
         <div style="height: 5px;"></div>
-        <div style="font-size: 12px;">{{ post.excerpt }}</div>
+        {% if post.authors %}<div style="font-size: 12px;">{{ post.authors }}</div>{% endif %}
         <div style="height: 5px;"></div>
         {% if post.venue %}<i style="font-size: 12px; {% if post.category == 'conferences' %}color: red;{% endif %}"><b>{{ post.venue }}</b></i>{% endif %}
         <div style="height: 5px;"></div>

@@ -1,16 +1,14 @@
 ---
 permalink: /
 title: "Erdemt Bao"
-author_profile: false
+author_profile: true
 layout: home_old
 redirect_from:
   - /about/
   - /about.html
 ---
 
-{% include home_hero.html %}
-
-## Biography {#biography}
+## About me {#about-me}
 
 Hi there! My name is **Erdemt Bao**, and I am currently a second-year master's student at the School of Mechanical Science and Engineering (MSE), Huazhong University of Science and Technology (HUST). Before my master's studies, I obtained my bachelor's degree from the School of Automation at Wuhan University of Technology in June 2024.
 
@@ -22,22 +20,24 @@ I am currently seeking opportunities to apply for U.S. PhD programs for Fall 202
 
 ---
 
-## News {#news}
+# 🔥 News {#news}
 
-* Recent activities and event photos (e.g., 2025 D-Robotics Developer, CICC Lumina, MIT Technology Review, graduation, SZU Open Day) — see the [Reports](#reports) section below for media coverage.
+- *2026.02*: &nbsp;🎉🎉 WaveComm is accepted to ICRA 2026!
+- *2025.06*: &nbsp;🎉🎉 [Our team wins a first prize in RoboTwin Dual-Arm Collaboration Challenge of CVPR2025 (Real-world Track)!](https://miaa.cc/2025-06-19-robotwin-challenge/).
+- *2025.05*: &nbsp;🎉🎉 [Our team wins a silver medal in RoboTwin Dual-Arm Collaboration Challenge of CVPR2025(Simulation Round 1)!](https://miaa.cc/2025-05-08-robotwin-challenge/).
 
 ---
 
 ## Education {#education}
 
 <table class="tb-education" style="width: 100%; border: none;">
-<tr><td style="width: 320px;"><img src="/files/institute/hust.png" width="230" style="margin-left: 35px"></td>
+<tr><td style="width: 320px;"><img src="/files/institute/hust.png" width="230px" style="margin-left: 35px"></td>
 <td><p><b>Huazhong University of Science and Technology (HUST)</b><br><b style="font-size: 12px;"><a href="https://mse.hust.edu.cn/">School of Mechanical Science & Engineering (MSE)</a></b></p>
 <div style="font-size: 12px">Master's Student</div>
 <div style="font-size: 12px">Oct. 2025 – Jun. 2029 (expected)</div></td></tr>
 </table>
 <table class="tb-education" style="width: 100%; border: none; margin-top: 20px;">
-<tr><td style="width: 320px;"><img src="/files/institute/whut.png" width="220" style="margin-left: 40px"></td>
+<tr><td style="width: 320px;"><img src="/files/institute/whut.png" width="220px" style="margin-left: 40px"></td>
 <td><p><b>Wuhan University of Technology (WHUT)</b><br><b style="font-size: 12px;"><a href="http://sa.whut.edu.cn/">School of Automation (SA)</a></b></p>
 <div style="font-size: 12px">B.Eng. in Computer Science and Technology (Outstanding Class)</div>
 <div style="font-size: 12px">Sep. 2021 – Jul. 2025</div></td></tr>
@@ -48,7 +48,7 @@ I am currently seeking opportunities to apply for U.S. PhD programs for Fall 202
 ## Research Experience {#research-experience}
 
 <table class="tb-education" style="width: 100%; border: none;">
-<tr><td style="width: 360px;"><img src="/files/institute/scut.png" width="250" style="margin-left: 45px"></td>
+<tr><td style="width: 360px;"><img src="/files/institute/scut.png" width="250px" style="margin-left: 45px"></td>
 <td><b><a href="https://miaa.cc/">MIAA Lab</a>, South China University of Technology</b><br>
 <p style="font-size: 12px;"><b>[2025 – 2026] Research Intern</b>, Embodied Intelligence</p></td></tr>
 </table>
@@ -129,17 +129,17 @@ I am currently seeking opportunities to apply for U.S. PhD programs for Fall 202
 
 <table style="border-spacing: 2px; font-size: 15px; width: 100%;">
 <tr><td style="width: 200px;"><img src="/files/work/2026-Awesome-Robotics-Skill-Learning.png" width="140" style="margin-left: 25px;"></td>
-<td><b style="font-size: 15px;">Awesome-Robotics-Skill-Learning</b><br><div style="height: 8px;"></div><i>Founder & Project Lead & First Author</i><br><div style="height: 8px;"></div>Project Link: <a href="https://github.com/TianxingChen/RoboScholar">https://github.com/TianxingChen/RoboScholar</a></td></tr>
+<td><b style="font-size: 15px;">Awesome-Robotics-Skill-Learning</b><br><div style="height: 8px;"></div><i>Founder & Project Lead & First Author</i><br><div style="height: 8px;"></div>Project Link: <a href="https://github.com/erdemtbao/Awesome-Robot-Skill-Learning">https://github.com/erdemtbao/Awesome-Robot-Skill-Learning</a></td></tr>
 </table>
 
 ---
 
-## Reports & Media {#reports}
+## 报道与媒体 {#reports}
 
 <div style="font-size: 15px">
-[05/2024] <a href="https://mp.weixin.qq.com/s/WEnskOukav5cQsm6CXvilA" target="_blank">WHUT Youth League Committee — Top 10 Outstanding Students & Teams</a><br>Over 6,000 views.<br>
-[04/2024] <a href="https://mp.weixin.qq.com/s/gQ213_tOPVilCEQZjfAyZg" target="_blank">WHUT Official — Profile: Erdemt Bao</a><br>Over 8,000 views.<br>
-[12/2023] <a href="http://218.197.103.36/xywh/xyrw/202503/t20250312_1321234.shtml" target="_blank">WHUT School of Automation — Shining Names: Erdemt Bao</a><br>Official site.
+[05/2024] <a href="https://mp.weixin.qq.com/s/WEnskOukav5cQsm6CXvilA" target="_blank">《放榜！第十八届"理工青年十大风云学子""理工青年十大精英团队"发布！》</a><br>武汉理工大学团委微信公众号，阅读量超 6000。<br>
+[04/2024] <a href="https://mp.weixin.qq.com/s/gQ213_tOPVilCEQZjfAyZg" target="_blank">《这个勤奋、热心的蒙古族帅小伙，他是包额尔德木图！》</a><br>武汉理工大学微信公众号，阅读量超 8000。<br>
+[12/2023] <a href="http://218.197.103.36/xywh/xyrw/202503/t20250312_1321234.shtml" target="_blank">《【闪亮的名字】包额尔德木图：从内蒙古草原到大学校园，将感恩融入服务和成长中》</a><br>武汉理工大学自动化学院官网。<br>
 </div>
 
 ---
