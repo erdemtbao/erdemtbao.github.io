@@ -2,10 +2,10 @@
 
 /* Home (old-style) wider main, Georgia serif like jemdoc/tianxingchen */
 .home-old__main {
-  max-width: 1200px;
+  max-width: 1400px;
   margin-left: auto;
   margin-right: auto;
-  padding: 0 20px;
+  padding: 0 40px;
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 15px;
   line-height: 1.6;

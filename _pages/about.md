@@ -28,33 +28,6 @@ I am currently seeking opportunities to apply for U.S. PhD programs for Fall 202
 
 ---
 
-## Education {#education}
-
-<table class="tb-education" style="width: 100%; border: none;">
-<tr><td style="width: 320px;"><img src="/files/institute/hust.png" width="230px" style="margin-left: 35px"></td>
-<td><p><b>Huazhong University of Science and Technology (HUST)</b><br><b style="font-size: 12px;"><a href="https://mse.hust.edu.cn/">School of Mechanical Science & Engineering (MSE)</a></b></p>
-<div style="font-size: 12px">Master's Student</div>
-<div style="font-size: 12px">Oct. 2025 – Jun. 2029 (expected)</div></td></tr>
-</table>
-<table class="tb-education" style="width: 100%; border: none; margin-top: 20px;">
-<tr><td style="width: 320px;"><img src="/files/institute/whut.png" width="220px" style="margin-left: 40px"></td>
-<td><p><b>Wuhan University of Technology (WHUT)</b><br><b style="font-size: 12px;"><a href="http://sa.whut.edu.cn/">School of Automation (SA)</a></b></p>
-<div style="font-size: 12px">B.Eng. in Computer Science and Technology (Outstanding Class)</div>
-<div style="font-size: 12px">Sep. 2021 – Jul. 2025</div></td></tr>
-</table>
-
----
-
-## Research Experience {#research-experience}
-
-<table class="tb-education" style="width: 100%; border: none;">
-<tr><td style="width: 360px;"><img src="/files/institute/scut.png" width="250px" style="margin-left: 45px"></td>
-<td><b><a href="https://miaa.cc/">MIAA Lab</a>, South China University of Technology</b><br>
-<p style="font-size: 12px;"><b>[2025 – 2026] Research Intern</b>, Embodied Intelligence</p></td></tr>
-</table>
-
----
-
 ## Publications {#publications}
 
 {% include home_publications.html %}
@@ -91,10 +64,7 @@ I am currently seeking opportunities to apply for U.S. PhD programs for Fall 202
 <div style="font-size: small">With Weili Li, Jiaxuan Li. Supervised by <a href="https://csse.szu.edu.cn/pages/user/index?id=1130">Dr. Jie Chen</a>.</div>
 <div style="font-size: small">Team: Shenzhen University</div></td></tr>
 </table>
-<table class="tb-challenge" style="border-spacing: 2px; width: 100%;">
-<tr><td style="width: 210px;"></td>
-<td style="font-size: 15px;"><b>National Grand Prize (3rd Place Overall), The 16th "Siemens Cup" China Intelligent Manufacturing Challenge (CIMC), 2022.</b></td></tr>
-</table>
+- · National Grand Prize (3rd Place Overall), The 16th "Siemens Cup" China Intelligent Manufacturing Challenge (CIMC), 2022.
 
 ---
 
@@ -122,6 +92,33 @@ I am currently seeking opportunities to apply for U.S. PhD programs for Fall 202
 <table style="border-spacing: 2px; font-size: 15px; width: 100%;">
 <tr><td style="width: 200px;"><img src="/files/work/2026-Awesome-Robotics-Skill-Learning.png" width="140" style="margin-left: 25px;"></td>
 <td><b style="font-size: 15px;">Awesome-Robotics-Skill-Learning</b><br><div style="height: 8px;"></div><i>Founder & Project Lead & First Author</i><br><div style="height: 8px;"></div>Project Link: <a href="https://github.com/erdemtbao/Awesome-Robot-Skill-Learning">https://github.com/erdemtbao/Awesome-Robot-Skill-Learning</a></td></tr>
+</table>
+
+---
+
+## Education {#education}
+
+<table class="tb-education" style="width: 100%; border: none;">
+<tr><td style="width: 320px;"><img src="/files/institute/hust.png" width="230px" style="margin-left: 35px"></td>
+<td><p><b>Huazhong University of Science and Technology (HUST)</b><br><b style="font-size: 12px;"><a href="https://mse.hust.edu.cn/">School of Mechanical Science & Engineering (MSE)</a></b></p>
+<div style="font-size: 12px">Master's Student</div>
+<div style="font-size: 12px">Oct. 2025 – Jun. 2029 (expected)</div></td></tr>
+</table>
+<table class="tb-education" style="width: 100%; border: none; margin-top: 20px;">
+<tr><td style="width: 320px;"><img src="/files/institute/whut.png" width="220px" style="margin-left: 40px"></td>
+<td><p><b>Wuhan University of Technology (WHUT)</b><br><b style="font-size: 12px;"><a href="http://sa.whut.edu.cn/">School of Automation (SA)</a></b></p>
+<div style="font-size: 12px">B.Eng. in Computer Science and Technology (Outstanding Class)</div>
+<div style="font-size: 12px">Sep. 2021 – Jul. 2025</div></td></tr>
+</table>
+
+---
+
+## Research Experience {#research-experience}
+
+<table class="tb-education" style="width: 100%; border: none;">
+<tr><td style="width: 360px;"><img src="/files/institute/scut.png" width="250px" style="margin-left: 45px"></td>
+<td><b><a href="https://miaa.cc/">MIAA Lab</a>, South China University of Technology</b><br>
+<p style="font-size: 12px;"><b>[2025 – 2026] Research Intern</b>, Embodied Intelligence</p></td></tr>
 </table>
 
 ---
