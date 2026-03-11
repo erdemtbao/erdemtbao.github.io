@@ -1,23 +1,16 @@
-# 章节顺序与 erdemtbao_old.github.io 一致：Publications, Honors, Challenge Awards, Engineering Projects, Open-source Projects, Reports, CV
-
+# 单页滚动：导航为首页锚点，点击后滚动到对应区块
 main:
   - title: "Publications"
-    url: /publications/
-
+    url: "/#publications"
   - title: "Honors"
-    url: /honors/
-
+    url: "/#honors"
   - title: "Challenge Awards"
-    url: /challenge-awards/
-
+    url: "/#challenge-awards"
   - title: "Engineering Projects"
-    url: /engineering-projects/
-
+    url: "/#engineering-projects"
   - title: "Open-source Projects"
-    url: /opensource-projects/
-
+    url: "/#opensource-projects"
   - title: "Reports"
-    url: /reports/
-
+    url: "/#reports"
   - title: "CV"
-    url: /cv/
+    url: "/#cv"
