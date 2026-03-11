@@ -1,9 +1,21 @@
-/* Match erdemtbao_old.github.io layout and style */
+/* Match erdemtbao_old.github.io / tianxingchen.github.io layout and style */
 
-/* Home (old-style) full-width main, no sidebar */
-.home-old__main { max-width: 900px; margin-left: auto; margin-right: auto; padding: 0 20px; }
+/* Home (old-style) wider main, Georgia serif like jemdoc/tianxingchen */
+.home-old__main {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 20px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 15px;
+  line-height: 1.6;
+  color: #000;
+}
 .home-old__main .page__inner-wrap { max-width: none; }
 .home-old__main .page__content--full { padding: 0; }
+/* Publication titles: no underline */
+.home-old__main .tb-publications a[href*="/publication/"] { text-decoration: none; }
+.home-old__main .tb-publications a[href*="/publication/"]:hover { text-decoration: underline; }
 .home-hero h1 { font-size: 1.75em; margin: 0; }
 .home-hero table { border: none; }
 .home-hero td { border: none; }
