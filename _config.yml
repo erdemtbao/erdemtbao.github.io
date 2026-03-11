@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Erdemt Bao (包额尔德木图)"
+title                    : "Erdemt Bao"
 title_separator          : "-"
-name                     : &name "Erdemt Bao (包额尔德木图)"
+name                     : &name "Erdemt Bao"
 description              : &description "Erdemt Bao's academic portfolio — Robotics, Embodied Intelligence, Autonomous Driving"
 url                      : "https://erdemtbao.github.io"
 baseurl                  : ""
@@ -23,7 +23,7 @@ repository               : "erdemtbao/erdemtbao.github.io"
 author:
   # Biographic information
   avatar           : "https://erdemtbao.github.io/images/profile.jpg"
-  name             : "Erdemt Bao (包额尔德木图)"
+  name             : "Erdemt Bao"
   pronouns         :
   bio              : "Master's student @ HUST MSE. Research: Robotics, Embodied Intelligence, Robot Skill Learning."
   location         : "Wuhan, China"

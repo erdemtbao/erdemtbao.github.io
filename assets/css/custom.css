@@ -1,0 +1,106 @@
+/* Match erdemtbao_old.github.io layout and style */
+
+/* Section headings like old site */
+.page__content h2 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  font-size: 1.35em;
+  border-bottom: none;
+  padding-bottom: 0;
+}
+.page__content h2:first-of-type { margin-top: -10px; }
+
+/* Spacing between sections */
+.page__content .section-block { margin-bottom: 1.5em; }
+.page__content .section-block + h2 { margin-top: 1.8em; }
+
+/* Award grid (Honors) - 3 columns, card style */
+.award-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+  margin: 12px 0 24px;
+}
+.award-card {
+  width: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.award-card img {
+  height: 140px;
+  width: auto;
+  display: block;
+  box-shadow: 2px 2px 2px rgba(0,0,0,0.25);
+}
+.award-text {
+  margin-top: 10px;
+  font-size: 15px;
+  line-height: 1.35;
+  max-width: 90%;
+}
+@media (max-width: 900px) {
+  .award-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 520px) {
+  .award-grid { grid-template-columns: 1fr; }
+}
+
+/* Content tables - clean, like old site */
+.page__content table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.page__content table td {
+  vertical-align: top;
+  padding: 8px 4px;
+}
+.page__content table img {
+  border-radius: 4px;
+  max-width: 100%;
+}
+
+/* Publication-style rows (optional) */
+.pub-row {
+  display: table;
+  width: 100%;
+  margin-bottom: 16px;
+  padding: 10px 0;
+}
+.pub-row:nth-of-type(odd) { background-color: #ffffdf; }
+.pub-thumb {
+  display: table-cell;
+  width: 200px;
+  padding-right: 12px;
+  vertical-align: top;
+}
+.pub-thumb img, .pub-thumb video {
+  width: 180px;
+  max-width: 100%;
+  box-shadow: 4px 4px 4px #888;
+  border-radius: 4px;
+}
+.pub-info { display: table-cell; vertical-align: top; }
+.pub-title { font-size: 15px; color: #054095; font-weight: bold; margin-bottom: 4px; }
+.pub-meta { font-size: 12px; color: #333; }
+
+/* Challenge award rows - image left, text right */
+.challenge-row {
+  display: table;
+  width: 100%;
+  margin-bottom: 20px;
+}
+.challenge-row img {
+  width: 150px;
+  box-shadow: 4px 4px 8px #888;
+  margin-right: 16px;
+  vertical-align: top;
+}
+.challenge-row > div { display: table-cell; vertical-align: top; }
+
+/* Body text size like old site */
+.page__content p, .page__content li { font-size: 15px; line-height: 1.6; }

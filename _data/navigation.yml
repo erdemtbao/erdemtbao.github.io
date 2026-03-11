@@ -1,4 +1,3 @@
-# 单页滚动：导航为首页锚点，点击后滚动到对应区块
 main:
   - title: "Publications"
     url: "/#publications"

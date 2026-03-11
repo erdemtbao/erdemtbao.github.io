@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Erdemt Bao (包额尔德木图)"
+title: "Erdemt Bao"
 author_profile: true
 redirect_from:
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 ## Biography {#biography}
 
-Hi there! My name is **Erdemt Bao (Chinese: 包额尔德木图)**, and I am currently a second-year master's student at the School of Mechanical Science and Engineering (MSE), Huazhong University of Science and Technology (HUST). Before my master's studies, I obtained my bachelor's degree from the School of Automation at Wuhan University of Technology in June 2024.
+Hi there! My name is **Erdemt Bao**, and I am currently a second-year master's student at the School of Mechanical Science and Engineering (MSE), Huazhong University of Science and Technology (HUST). Before my master's studies, I obtained my bachelor's degree from the School of Automation at Wuhan University of Technology in June 2024.
 
 My research interests include **Robotics, Embodied Intelligence, and Autonomous Driving**. My current research mainly focuses on **robot skill learning**.
 
@@ -21,7 +21,7 @@ I am currently seeking opportunities to apply for U.S. PhD programs for Fall 202
 
 ## News {#news}
 
-* Recent activities and event photos (e.g., 2025 D-Robotics Developer, CICC Lumina, MIT Technology Review, graduation, SZU Open Day, etc.) — see the [Reports](#reports) section below for media coverage.
+* Recent activities and event photos (e.g., 2025 D-Robotics Developer, CICC Lumina, MIT Technology Review, graduation, SZU Open Day) — see the [Reports](#reports) section below for media coverage.
 
 ---
 
@@ -62,11 +62,20 @@ I am currently seeking opportunities to apply for U.S. PhD programs for Fall 202
 
 ## Honors {#honors}
 
-| | |
-|:---:|:---|
-| ![NeurIPS 2025 MARS](/files/award/2025-neurips-mars-champion.jpg){: width="140px"} | **NeurIPS 2025 MARS Challenge Manipulation Track Champion** |
-| ![ECCV 2024](/files/award/2024-eccv_best_paper.png){: width="140px"} | **ECCV 2024 MAAS Workshop — Best Paper Award** |
-| ![AgiBot](/files/award/2025-agibotworld-challenge.jpg){: width="140px"} | **IEEE IROS 2025 AgiBot World Challenge — Third Runner-up** |
+<div class="award-grid">
+  <div class="award-card">
+    <img src="/files/award/2025-neurips-mars-champion.jpg" alt="">
+    <div class="award-text">NeurIPS 2025 MARS Challenge Manipulation Track Champion</div>
+  </div>
+  <div class="award-card">
+    <img src="/files/award/2024-eccv_best_paper.png" alt="">
+    <div class="award-text">ECCV 2024 MAAS Workshop<br>Best Paper Award</div>
+  </div>
+  <div class="award-card">
+    <img src="/files/award/2025-agibotworld-challenge.jpg" alt="">
+    <div class="award-text">IEEE IROS 2025 AgiBot World Challenge Third Runner-up</div>
+  </div>
+</div>
 
 ---
 
@@ -106,11 +115,11 @@ I am currently seeking opportunities to apply for U.S. PhD programs for Fall 202
 
 ## Reports & Media {#reports}
 
-* [05/2024] [《放榜！第十八届“理工青年十大风云学子”“理工青年十大精英团队”发布！》](https://mp.weixin.qq.com/s/WEnskOukav5cQsm6CXvilA) — the WeChat official account of WHUT Youth League committee, over 6,000 views.
+* [05/2024] [WHUT Youth League Committee — Top 10 Outstanding Students & Teams](https://mp.weixin.qq.com/s/WEnskOukav5cQsm6CXvilA) — over 6,000 views.
 
-* [04/2024] [《这个勤奋、热心的蒙古族帅小伙，他是包额尔德木图！》](https://mp.weixin.qq.com/s/gQ213_tOPVilCEQZjfAyZg) — the WeChat official account of WHUT, over 8,000 views.
+* [04/2024] [WHUT Official — Profile: Erdemt Bao](https://mp.weixin.qq.com/s/gQ213_tOPVilCEQZjfAyZg) — over 8,000 views.
 
-* [12/2023] [《【闪亮的名字】包额尔德木图：从内蒙古草原到大学校园，将感恩融入服务和成长中》](http://218.197.103.36/xywh/xyrw/202503/t20250312_1321234.shtml) — the official web of WHUT School of Automation.
+* [12/2023] [WHUT School of Automation — Shining Names: Erdemt Bao](http://218.197.103.36/xywh/xyrw/202503/t20250312_1321234.shtml) — official site.
 
 ---
 
@@ -118,4 +127,4 @@ I am currently seeking opportunities to apply for U.S. PhD programs for Fall 202
 
 **Download PDF:** [CV](/files/cv.pdf)
 
-Education, Research experience, and full publication/talk/teaching lists are as above; see also the [CV PDF](/files/cv.pdf) for the complete version.
+Education, research experience, and publication lists are summarized above; see the [CV PDF](/files/cv.pdf) for the full version.
