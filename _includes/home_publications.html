@@ -1,0 +1,30 @@
+{% include base_path %}
+{% for post in site.publications reversed %}
+<table class="tb-publications" style="width: 100%; border: none; margin-bottom: 0; {% if forloop.index0 == 0 or forloop.index0 == 1 %}background-color: #ffffdf;{% endif %}">
+  <tbody>
+    <tr>
+      <td style="width: 200px; padding: 10px; vertical-align: top;">
+        <div class="container">
+          {% if post.teaser_video %}
+            <video autoplay loop muted width="180" playsinline webkit-playsinline style="box-shadow: 4px 4px 4px #888888;">
+              <source src="{{ post.teaser | prepend: base_path }}" type="video/mp4">
+            </video>
+          {% else %}
+            <img src="{{ post.teaser | prepend: base_path }}" width="180" style="box-shadow: 4px 4px 4px #888888;" alt="">
+          {% endif %}
+        </div>
+      </td>
+      <td style="padding: 10px; vertical-align: top;">
+        <b style="font-size: 15px; color: #054095;"><a href="{{ base_path }}{{ post.url }}" style="color: inherit;">{{ post.title }}</a></b>
+        <div style="height: 5px;"></div>
+        <div style="font-size: 12px;">{{ post.excerpt }}</div>
+        <div style="height: 5px;"></div>
+        {% if post.venue %}<i style="font-size: 12px; {% if post.category == 'conferences' %}color: red;{% endif %}"><b>{{ post.venue }}</b></i>{% endif %}
+        <div style="height: 5px;"></div>
+        {% if post.paperurl %}<div style="font-size: 12px;"><a href="{{ post.paperurl }}" target="_blank">arXiv</a></div>{% endif %}
+      </td>
+    </tr>
+  </tbody>
+</table>
+{% endfor %}
+<p style="font-size: 12px; margin-top: 8px;"><b>*</b> Equal contribution. <b>†</b> Corresponding author.</p>

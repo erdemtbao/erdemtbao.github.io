@@ -1,0 +1,25 @@
+{% include base_path %}
+<div class="home-hero" style="margin-top: 25px;">
+  <table style="width: 100%; border: none;">
+    <tbody>
+      <tr>
+        <td style="width: 60%; vertical-align: top;">
+          <div id="toptitle">
+            <h1 style="margin: 0; font-size: 1.75em;">{{ site.title }}</h1>
+          </div>
+          <p style="margin-top: 20px; margin-bottom: 0;">
+            {% if site.author.email %}<a href="mailto:{{ site.author.email }}" target="_blank"><i class="fas fa-envelope" style="font-size: 1.1em;"></i></a>&nbsp;{% endif %}
+            {% if site.author.googlescholar %}<a href="{{ site.author.googlescholar }}" target="_blank"><i class="ai ai-google-scholar" style="font-size: 1.1em;"></i></a>&nbsp;{% endif %}
+            {% if site.author.github %}<a href="https://github.com/{{ site.author.github }}" target="_blank"><i class="fab fa-github" style="font-size: 1.1em;"></i></a>&nbsp;{% endif %}
+            {% if site.author.zhihu %}<a href="{{ site.author.zhihu }}" target="_blank"><i class="fab fa-weixin" style="font-size: 1.1em;"></i></a>&nbsp;{% endif %}
+          </p>
+        </td>
+        <td style="width: 40%; vertical-align: top; text-align: right;">
+          {% if site.author.avatar %}
+            <img src="{% if site.author.avatar contains '://' %}{{ site.author.avatar }}{% else %}{{ site.author.avatar | prepend: '/images/' | prepend: base_path }}{% endif %}" alt="{{ site.title }}" width="250" style="max-width: 100%;">
+          {% endif %}
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

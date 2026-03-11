@@ -1,5 +1,21 @@
 /* Match erdemtbao_old.github.io layout and style */
 
+/* Home (old-style) full-width main, no sidebar */
+.home-old__main { max-width: 900px; margin-left: auto; margin-right: auto; padding: 0 20px; }
+.home-old__main .page__inner-wrap { max-width: none; }
+.home-old__main .page__content--full { padding: 0; }
+.home-hero h1 { font-size: 1.75em; margin: 0; }
+.home-hero table { border: none; }
+.home-hero td { border: none; }
+
+/* Publication tables like old site */
+.tb-publications { border-collapse: collapse; margin-top: 0; margin-bottom: 0; }
+.tb-publications td { vertical-align: top; }
+.tb-education { border-collapse: collapse; }
+.tb-education td { border: none; vertical-align: top; }
+.tb-challenge { border-collapse: collapse; }
+.tb-challenge td { border: none; vertical-align: top; }
+
 /* Section headings like old site */
 .page__content h2 {
   margin-top: 1.5em;
