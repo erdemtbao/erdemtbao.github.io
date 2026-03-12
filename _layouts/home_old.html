@@ -8,9 +8,12 @@ layout: default
 /* Force wider main on home: theme limits #main to 1280px via _page.scss */
 .layout-home-old { max-width: 2000px; margin-left: auto; margin-right: auto; width: 100%; box-sizing: border-box; padding: 0 1em; }
 .layout-home-old #main { max-width: 100% !important; width: 100% !important; box-sizing: border-box; }
-/* Sidebar is position:fixed so align with centered content on wide viewports */
+/* Sidebar is position:fixed; keep it aligned with content (not flush to viewport left) */
 @media (min-width: 1024px) {
-  .layout-home-old .sidebar { left: calc(1em + max(0px, (100vw - 2000px) / 2)); }
+  .layout-home-old .sidebar { left: 1em !important; }
+}
+@media (min-width: 2000px) {
+  .layout-home-old .sidebar { left: calc(1em + (100vw - 2000px) / 2) !important; }
 }
 @media (min-width: 1280px) {
   .layout-home-old #main { max-width: 100% !important; width: 100% !important; }
