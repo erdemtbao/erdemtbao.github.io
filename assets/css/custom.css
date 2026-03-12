@@ -13,11 +13,18 @@
   margin-right: auto;
   width: 100%;
   box-sizing: border-box;
+  padding: 0 1em;
 }
 .layout-home-old #main {
   max-width: 100% !important;
   width: 100% !important;
   box-sizing: border-box;
+}
+/* Sidebar is position:fixed in theme; align with centered content on wide viewports */
+@media (min-width: 1024px) {
+  .layout-home-old .sidebar {
+    left: calc(1em + max(0px, (100vw - 2000px) / 2));
+  }
 }
 @media (min-width: 1280px) {
   .layout-home-old #main {
