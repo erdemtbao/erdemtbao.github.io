@@ -6,9 +6,9 @@
 .sidebar .author__employer-text { white-space: normal; word-wrap: break-word; display: inline; }
 
 /* Home (old-style) wider main, Georgia serif like jemdoc/tianxingchen */
-/* Theme limits #main to 1280px ($x-large), so override when using home_old layout */
-#main:has(.home-old__article) {
-  max-width: 2000px;
+/* Theme limits #main to 1280px in media query; override via wrapper class + !important */
+.layout-home-old #main {
+  max-width: 2000px !important;
 }
 .home-old__main {
   max-width: 100%;
