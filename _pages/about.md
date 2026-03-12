@@ -61,8 +61,8 @@ I am currently seeking opportunities to apply for **U.S. PhD programs** for Fall
 <tr><td style="width: 210px;"><img src="/files/award/2023-MCMICM.png" width="150" style="box-shadow: 4px 4px 8px #888; margin-left: 30px;"></td>
 <td style="font-size: 15px;"><b>2023 Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM)</b>
 <p><i style="color: red;"><b>Meritorious Winner</b></i></p>
-<div style="font-size: small">With Chen Gang, Song Yifan. 
-<div style="font-size: small">Team: Whut</div></td></tr>
+<div style="font-size: small">With Weili Li, Jiaxuan Li. Supervised by <a href="https://csse.szu.edu.cn/pages/user/index?id=1130">Dr. Jie Chen</a>.</div>
+<div style="font-size: small">Team: Shenzhen University</div></td></tr>
 </table>
 - National Grand Prize (3rd Place Overall), The 16th "Siemens Cup" China Intelligent Manufacturing Challenge (CIMC), 2022.
 

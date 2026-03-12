@@ -20,15 +20,10 @@
   width: 100% !important;
   box-sizing: border-box;
 }
-/* Sidebar is position:fixed in theme; align with content, not flush to viewport left */
+/* Sidebar is position:fixed in theme; align with centered content on wide viewports */
 @media (min-width: 1024px) {
   .layout-home-old .sidebar {
-    left: 1em !important;
-  }
-}
-@media (min-width: 2000px) {
-  .layout-home-old .sidebar {
-    left: calc(1em + (100vw - 2000px) / 2) !important;
+    left: calc(1em + max(0px, (100vw - 2000px) / 2));
   }
 }
 @media (min-width: 1280px) {
