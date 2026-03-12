@@ -1,5 +1,10 @@
 /* Match erdemtbao_old.github.io / tianxingchen.github.io layout and style */
 
+/* Sidebar: no horizontal scroll, school name wraps */
+.sidebar { overflow-x: hidden; }
+.sidebar .author__urls--compact { display: block; position: relative; margin: 0; padding: 0; border: 0; box-shadow: none; }
+.sidebar .author__employer-text { white-space: normal; word-wrap: break-word; display: inline; }
+
 /* Home (old-style) wider main, Georgia serif like jemdoc/tianxingchen */
 .home-old__main {
   max-width: 1400px;

@@ -1,7 +1,7 @@
 {% include base_path %}
 {% assign sorted_pubs = site.publications | sort: "order" %}
 {% for post in sorted_pubs %}
-<table class="tb-publications" style="width: 100%; border: none; margin-bottom: 0; {% if forloop.index0 == 0 or forloop.index0 == 1 %}background-color: #ffffdf;{% endif %}">
+<table class="tb-publications" style="width: 100%; border: none; margin-bottom: 0; {% if forloop.index0 == 0 or forloop.index0 == 1 or forloop.index0 == 2 %}background-color: #ffffdf;{% endif %}">
   <tbody>
     <tr>
       <td style="width: 200px; padding-top: 10px; padding-bottom: 10px; vertical-align: top;">
@@ -28,4 +28,4 @@
   </tbody>
 </table>
 {% endfor %}
-<p style="font-size: 12px; margin-top: 8px;"><b>*</b> Equal contribution. <b>†</b> Corresponding author.</p>
+<p style="font-size: 12px; margin-top: 8px;"><b>*</b> Equal contribution. <b>†</b> Corresponding author. <b>‡</b> Project Leader.</p>
