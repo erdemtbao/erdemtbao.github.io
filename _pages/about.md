@@ -46,26 +46,29 @@ I am currently seeking opportunities to apply for **U.S. PhD programs** for Fall
 
 <table class="tb-challenge" style="border-spacing: 2px; width: 100%;">
 <tr><td style="width: 210px;"><img src="/files/award/2025-Digital_Dynamics_REAL.png" width="150" style="box-shadow: 4px 4px 8px #888; margin-left: 30px;"></td>
-<td style="font-size: 15px;"><b>CVPR 2025 RoboTwin Dual-Arm Collaboration Challenge: Real-World Track</b>
+<td style="font-size: 15px;"><b style="color: #054095;">CVPR 2025 RoboTwin Dual-Arm Collaboration Challenge: Real-World Track</b>
 <p><i style="color: red;"><b>First Prize</b></i></p>
 <!-- <div style="font-size: small">With Yuanjie He, Yifei Liu. Supervised by <a href="https://szudseg.cn/people/">Prof. Jianbin Qin.</a></div> -->
 <div style="font-size: small">Team: Digital_Dynamos</div></td></tr>
 </table>
 <table class="tb-challenge" style="border-spacing: 2px; width: 100%;">
 <tr><td style="width: 210px;"><img src="/files/award/2025-Digital_Dynamics_SIM.png" width="150" style="box-shadow: 4px 4px 8px #888; margin-left: 30px;"></td>
-<td style="font-size: 15px;"><b>CVPR 2025 RoboTwin Dual-Arm Collaboration Challenge: Simulation Round 1</b>
+<td style="font-size: 15px;"><b style="color: #054095;">CVPR 2025 RoboTwin Dual-Arm Collaboration Challenge: Simulation Round 1</b>
 <p><i style="color: red;"><b>Second Prize</b></i></p>
 <!-- <div style="font-size: small">With Yuanjie He, Yifei Liu. Supervised by <a href="https://szudseg.cn/people/">Prof. Jianbin Qin.</a></div> -->
 <div style="font-size: small">Team: Digital_Dynamos</div></td></tr>
 </table>
 <table class="tb-challenge" style="border-spacing: 2px; width: 100%;">
 <tr><td style="width: 210px;"><img src="/files/award/2023-MCMICM.png" width="150" style="box-shadow: 4px 4px 8px #888; margin-left: 30px;"></td>
-<td style="font-size: 15px;"><b>2023 Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM)</b>
+<td style="font-size: 15px;"><b style="color: #054095;">2023 Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM)</b>
 <p><i style="color: red;"><b>Meritorious Winner</b></i></p>
-<div style="font-size: small">With Chen Gang, Song Yifan.
+<div style="font-size: small">With Chen Gang, Song Yifan.</div>
 <div style="font-size: small">Team: WHUT</div></td></tr>
 </table>
-- National Grand Prize (3rd Place Overall), The 16th "Siemens Cup" China Intelligent Manufacturing Challenge (CIMC), 2022.
+<table class="tb-challenge" style="border-spacing: 2px; width: 100%;">
+<tr><td style="width: 210px;"></td>
+<td style="font-size: 15px;"><b style="color: #054095;">· National Grand Prize (3rd Place Overall), The 16th "Siemens Cup" China Intelligent Manufacturing Challenge (CIMC), 2022.</b></td></tr>
+</table>
 
 ---
 
