@@ -10,6 +10,7 @@
 .layout-home-old #main {
   max-width: 2000px !important;
   width: 100% !important;
+  padding-left: 0 !important;
 }
 @media (min-width: 1280px) {
   .layout-home-old #main {
@@ -46,6 +47,7 @@
 .tb-education td { border: none; vertical-align: top; }
 .tb-challenge { border-collapse: collapse; }
 .tb-challenge td { border: none; vertical-align: top; }
+.tb-challenge td > b { color: #054095; }
 .tb-challenge td p { margin: 0 0 0 0; }
 .tb-challenge td div[style*="font-size: small"] { margin-top: 2px; }
 

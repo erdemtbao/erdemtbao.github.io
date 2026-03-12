@@ -12,11 +12,12 @@ redirect_from:
 
 Hi there! My name is **Erdemt Bao**, and I am currently a second-year master's student at the School of Mechanical Science and Engineering (MSE), Huazhong University of Science and Technology (HUST). Before my master's studies, I obtained my bachelor's degree from the School of Automation at Wuhan University of Technology in June 2024.
 
-My research interests include **Embodied Intelligence, and Robot Learning**. My current research mainly focuses on **Vision-Language-Action (VLA) models, and Robot Skill Learning**.
+My research interests include **Embodied Intelligence, and Robot Learning**. My current research mainly focuses on **Vision-Language-Action (VLA) models, Imitation Learning, and Robot Skill Learning**.
 
 Please feel free to contact me via email at [baoerdemt366@gmail.com](mailto:baoerdemt366@gmail.com) if you are interested in my work or would like to collaborate with me.
 
-I am currently seeking opportunities to apply for **U.S. PhD programs** for Fall 2027. Here is my [CV](/files/cv.pdf).
+I am currently seeking opportunities to apply for **U.S. PhD programs** for Fall 2027. 
+<!-- Here is my [CV](/files/cv.pdf). -->
 
 ---
 
@@ -61,8 +62,8 @@ I am currently seeking opportunities to apply for **U.S. PhD programs** for Fall
 <tr><td style="width: 210px;"><img src="/files/award/2023-MCMICM.png" width="150" style="box-shadow: 4px 4px 8px #888; margin-left: 30px;"></td>
 <td style="font-size: 15px;"><b>2023 Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM)</b>
 <p><i style="color: red;"><b>Meritorious Winner</b></i></p>
-<div style="font-size: small">With Weili Li, Jiaxuan Li. Supervised by <a href="https://csse.szu.edu.cn/pages/user/index?id=1130">Dr. Jie Chen</a>.</div>
-<div style="font-size: small">Team: Shenzhen University</div></td></tr>
+<div style="font-size: small">With Chen Gang, Song Yifan.
+<div style="font-size: small">Team: WHUT</div></td></tr>
 </table>
 - National Grand Prize (3rd Place Overall), The 16th "Siemens Cup" China Intelligent Manufacturing Challenge (CIMC), 2022.
 
