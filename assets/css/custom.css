@@ -6,9 +6,24 @@
 .sidebar .author__employer-text { white-space: normal; word-wrap: break-word; display: inline; }
 
 /* Home (old-style) wider main, Georgia serif like jemdoc/tianxingchen */
-/* Theme limits #main to 1280px in media query; override via wrapper class + !important */
+/* Theme: #main gets max-width 925px (Susy container) + 1280px at x-large; override by constraining wrapper and forcing #main to fill it */
+.layout-home-old {
+  max-width: 2000px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  box-sizing: border-box;
+}
 .layout-home-old #main {
-  max-width: 2000px !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  box-sizing: border-box;
+}
+@media (min-width: 1280px) {
+  .layout-home-old #main {
+    max-width: 100% !important;
+    width: 100% !important;
+  }
 }
 .home-old__main {
   max-width: 100%;

@@ -4,6 +4,14 @@ layout: default
 
 {% include base_path %}
 
+<style>
+/* Force wider main on home: theme limits #main to 1280px via _page.scss */
+.layout-home-old { max-width: 2000px; margin-left: auto; margin-right: auto; width: 100%; box-sizing: border-box; }
+.layout-home-old #main { max-width: 100% !important; width: 100% !important; box-sizing: border-box; }
+@media (min-width: 1280px) {
+  .layout-home-old #main { max-width: 100% !important; width: 100% !important; }
+}
+</style>
 <div class="layout-home-old">
 <div id="main" role="main">
   {% include sidebar.html %}
