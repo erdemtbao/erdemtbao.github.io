@@ -130,11 +130,3 @@ I am currently seeking opportunities to apply for **U.S. PhD programs** for Fall
 [04/2024] <a href="https://mp.weixin.qq.com/s/gQ213_tOPVilCEQZjfAyZg" target="_blank">《这个勤奋、热心的蒙古族帅小伙，他是包额尔德木图！》</a><br>武汉理工大学微信公众号，阅读量超 8000。<br>
 [12/2023] <a href="http://218.197.103.36/xywh/xyrw/202503/t20250312_1321234.shtml" target="_blank">《【闪亮的名字】包额尔德木图：从内蒙古草原到大学校园，将感恩融入服务和成长中》</a><br>武汉理工大学自动化学院官网。<br>
 </div>
-
----
-
-## CV {#cv}
-
-**Download PDF:** [CV](/files/cv.pdf)
-
-Education, research experience, and publication lists are summarized above; see the [CV PDF](/files/cv.pdf) for the full version.
