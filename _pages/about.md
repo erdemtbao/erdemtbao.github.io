@@ -116,7 +116,7 @@ I am currently seeking opportunities to apply for **U.S. PhD programs** for Fall
 ## Research Experience {#research-experience}
 
 <table class="tb-education" style="width: 100%; border: none;">
-<tr><td style="width: 360px;"><img src="/files/institute/scut.png" width="250px" style="margin-left: 45px"></td>
+<tr><td style="width: 320px;"><img src="/files/institute/scut.png" width="250px" style="margin-left: 45px"></td>
 <td><b><a href="https://miaa.cc/">MIAA Lab</a>, South China University of Technology</b><br>
 <p style="font-size: 12px;"><b>[2025 – 2026] Research Intern</b>, Embodied Intelligence</p></td></tr>
 </table>
