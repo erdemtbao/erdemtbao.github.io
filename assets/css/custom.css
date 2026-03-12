@@ -27,6 +27,8 @@
 .tb-education td { border: none; vertical-align: top; }
 .tb-challenge { border-collapse: collapse; }
 .tb-challenge td { border: none; vertical-align: top; }
+.tb-challenge td p { margin: 0 0 0 0; }
+.tb-challenge td div[style*="font-size: small"] { margin-top: 2px; }
 
 /* Section headings like old site (jemdoc: color #054095, font-size 125%) */
 .page__content h1,
