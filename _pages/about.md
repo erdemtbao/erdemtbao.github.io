@@ -65,10 +65,7 @@ I am currently seeking opportunities to apply for **U.S. PhD programs** for Fall
 <div style="font-size: small">With Chen Gang, Song Yifan.</div>
 <div style="font-size: small">Team: WHUT</div></td></tr>
 </table>
-<table class="tb-challenge" style="border-spacing: 2px; width: 100%;">
-<tr><td style="width: 210px;"></td>
-<td style="font-size: 15px;"><b style="color: #054095;">· National Grand Prize (3rd Place Overall), The 16th "Siemens Cup" China Intelligent Manufacturing Challenge (CIMC), 2022.</b></td></tr>
-</table>
+· National Grand Prize (3rd Place Overall), The 16th "Siemens Cup" China Intelligent Manufacturing Challenge (CIMC), 2022.
 
 <hr />
 
@@ -78,14 +75,14 @@ I am currently seeking opportunities to apply for **U.S. PhD programs** for Fall
 <tbody>
 <tr><td style="width: 200px; padding: 10px; vertical-align: top;">
 <div class="container"><video autoplay loop muted width="180" playsinline webkit-playsinline style="box-shadow: 4px 4px 4px #888888;"><source src="/files/work/2022-Pipeline-robots.mp4" type="video/mp4"></video></div></td>
-<td style="padding: 10px;"><b style="font-size: 15px; color: #054095;">A Miniature Pipeline Inspection Robot Based on Structured-Light 3D Scanning</b><div style="height: 5px;"></div><div style="font-size: 12px;"><b>Erdemt Bao</b>, Jin Yang</div><div style="height: 5px;"></div><i style="font-size: 12px; color: red;"><b>ICRA 2026</b></i></td></tr>
+<td style="padding: 10px;"><b style="font-size: 15px; color: #054095;">A Miniature Pipeline Inspection Robot Based on Structured-Light 3D Scanning</b><div style="height: 5px;"></div><div style="font-size: 12px;">XXX, XXX</div><div style="height: 5px;"></div><i style="font-size: 12px; color: red;"><b>XXX</b></i></td></tr>
 </tbody>
 </table>
 <table class="tb-publications" style="width: 100%; border: none;">
 <tbody>
 <tr><td style="width: 200px; padding: 10px; vertical-align: top;">
 <div class="container"><video autoplay loop muted width="180" playsinline webkit-playsinline style="box-shadow: 4px 4px 4px #888888;"><source src="/files/work/2023-Recycling-robots.mp4" type="video/mp4"></video></div></td>
-<td style="padding: 10px;"><b style="font-size: 15px; color: #054095;">A Robotic System for Disassembly and Recycling of Waste Printed Circuit Boards Toward Component Reuse</b><div style="height: 5px;"></div><div style="font-size: 12px;"><b>Erdemt Bao</b>, Jin Yang</div><div style="height: 5px;"></div><i style="font-size: 12px; color: red;"><b>ICRA 2026</b></i></td></tr>
+<td style="padding: 10px;"><b style="font-size: 15px; color: #054095;">A Robotic System for Disassembly and Recycling of Waste Printed Circuit Boards Toward Component Reuse</b><div style="height: 5px;"></div><div style="font-size: 12px;">XXX, XXX</div><div style="height: 5px;"></div><i style="font-size: 12px; color: red;"><b>XXX</b></i></td></tr>
 </tbody>
 </table>
 
