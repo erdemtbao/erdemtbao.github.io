@@ -1,8 +1,25 @@
 /* Match erdemtbao_old.github.io / tianxingchen.github.io layout and style */
 
-/* Sidebar: no horizontal scroll, school name wraps */
+/* Sidebar: no horizontal scroll, school name wraps, links always visible and clickable */
 .sidebar { overflow-x: hidden; }
-.sidebar .author__urls--compact { display: block; position: relative; margin: 0; padding: 0; border: 0; box-shadow: none; }
+.sidebar .author__links.sidebar-links {
+  display: block !important;
+  position: relative !important;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-shadow: none;
+  z-index: 1;
+  list-style: none;
+}
+.sidebar .author__links a {
+  display: inline-block;
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+  pointer-events: auto;
+}
+.sidebar .author__links a:hover { text-decoration: underline; }
 .sidebar .author__employer-text { white-space: normal; word-wrap: break-word; display: inline; }
 
 /* Home (old-style) wider main, Georgia serif like jemdoc/tianxingchen */
