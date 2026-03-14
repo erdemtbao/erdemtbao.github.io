@@ -2,6 +2,10 @@
 
 /* Sidebar: no horizontal scroll, school name wraps, links always visible and clickable */
 .sidebar { overflow-x: hidden; }
+/* Sidebar: wider width so long text (e.g. HUST, research) fits on fewer lines */
+.layout-home-old .sidebar {
+  max-width: 320px !important;
+}
 /* Sidebar: add left padding so personal info is not flush against viewport edge */
 .layout-home-old .sidebar {
   padding-left: 2.0em;
