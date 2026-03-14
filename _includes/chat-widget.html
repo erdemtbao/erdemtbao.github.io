@@ -1,0 +1,108 @@
+{% comment %}
+  AI Chat Widget - Requires chat_api_url in _config.yml
+  Set chat_api_url to your Vercel API URL, e.g. https://xxx.vercel.app/api/chat
+{% endcomment %}
+{% if site.chat_api_url %}
+<div id="chat-widget" class="chat-widget">
+  <div id="chat-panel" class="chat-panel" aria-hidden="true">
+    <div class="chat-header">
+      <span class="chat-title">🤖 AI Assistant</span>
+      <button type="button" class="chat-close" id="chat-close" aria-label="Close">×</button>
+    </div>
+    <div class="chat-messages" id="chat-messages">
+      <div class="chat-msg chat-msg-bot">
+        <p>Hi! I'm Erdemt's AI assistant. Ask me about his research, projects, or background. Try: "What is your research focus?" or "最近在做什么项目？"</p>
+      </div>
+    </div>
+    <div class="chat-input-wrap">
+      <input type="text" id="chat-input" class="chat-input" placeholder="Ask about Erdemt..." autocomplete="off" />
+      <button type="button" id="chat-send" class="chat-send" aria-label="Send">Send</button>
+    </div>
+  </div>
+  <button type="button" id="chat-toggle" class="chat-toggle" aria-label="Open chat">💬</button>
+</div>
+<link rel="stylesheet" href="{{ '/assets/css/chat-widget.css' | relative_url }}">
+<script>
+(function() {
+  const apiUrl = {{ site.chat_api_url | jsonify }};
+  if (!apiUrl) return;
+
+  const panel = document.getElementById('chat-panel');
+  const toggle = document.getElementById('chat-toggle');
+  const close = document.getElementById('chat-close');
+  const messages = document.getElementById('chat-messages');
+  const input = document.getElementById('chat-input');
+  const send = document.getElementById('chat-send');
+
+  function openPanel() {
+    panel.setAttribute('aria-hidden', 'false');
+    panel.classList.add('chat-panel-open');
+    input.focus();
+  }
+
+  function closePanel() {
+    panel.setAttribute('aria-hidden', 'true');
+    panel.classList.remove('chat-panel-open');
+  }
+
+  toggle.addEventListener('click', function() {
+    if (panel.classList.contains('chat-panel-open')) closePanel();
+    else openPanel();
+  });
+
+  close.addEventListener('click', closePanel);
+
+  function addMsg(text, isBot) {
+    const div = document.createElement('div');
+    div.className = 'chat-msg ' + (isBot ? 'chat-msg-bot' : 'chat-msg-user');
+    const p = document.createElement('p');
+    p.textContent = text;
+    div.appendChild(p);
+    messages.appendChild(div);
+    messages.scrollTop = messages.scrollHeight;
+  }
+
+  function setLoading(on) {
+    send.disabled = on;
+    input.disabled = on;
+  }
+
+  async function doSend() {
+    const text = input.value.trim();
+    if (!text) return;
+
+    addMsg(text, false);
+    input.value = '';
+    setLoading(true);
+
+    try {
+      const res = await fetch(apiUrl, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ message: text })
+      });
+      const data = await res.json();
+
+      if (!res.ok) {
+        addMsg('Sorry, something went wrong. Please try again later.', true);
+        return;
+      }
+      addMsg(data.reply || 'No response.', true);
+    } catch (e) {
+      addMsg('Unable to connect. Please check your network.', true);
+    } finally {
+      setLoading(false);
+      input.focus();
+    }
+  }
+
+  send.addEventListener('click', doSend);
+  input.addEventListener('keydown', function(e) {
+    if (e.key === 'Enter' && !e.shiftKey) {
+      e.preventDefault();
+      doSend();
+    }
+  });
+})();
+</script>
+{% endif %}

@@ -17,6 +17,10 @@ url                      : "https://erdemtbao.github.io"
 baseurl                  : ""
 repository               : "erdemtbao/erdemtbao.github.io"
 
+# AI Chat Widget: set to your Vercel API URL after deploying api/chat.js
+# e.g. https://erdemtbao-github-io.vercel.app/api/chat
+chat_api_url             : ""  # Leave empty to disable; set after Vercel deploy
+
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
