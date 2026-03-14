@@ -99,9 +99,17 @@ export default async function handler(req, res) {
     );
 
     if (!response.ok) {
-      const err = await response.text();
-      console.error('Gemini API error:', response.status, err);
-      return res.status(502).json({ error: 'AI service temporarily unavailable' });
+      const errText = await response.text();
+      console.error('Gemini API error:', response.status, errText);
+      let errMsg = 'AI service temporarily unavailable';
+      try {
+        const errJson = JSON.parse(errText);
+        const detail = errJson?.error?.message || errJson?.message;
+        if (response.status === 400 && /API_KEY|api.key|invalid/i.test(detail || '')) errMsg = 'API key invalid or missing. Check Vercel env vars.';
+        else if (response.status === 429) errMsg = 'Rate limit exceeded. Try again later.';
+        else if (detail) errMsg = detail;
+      } catch (_) {}
+      return res.status(502).json({ error: errMsg });
     }
 
     const data = await response.json();

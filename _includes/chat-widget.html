@@ -81,10 +81,11 @@
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ message: text })
       });
-      const data = await res.json();
-
+      let data = {};
+      try { data = await res.json(); } catch (_) {}
       if (!res.ok) {
-        addMsg('Sorry, something went wrong. Please try again later.', true);
+        const err = data.error || 'Sorry, something went wrong. Please try again later.';
+        addMsg(err, true);
         return;
       }
       addMsg(data.reply || 'No response.', true);
