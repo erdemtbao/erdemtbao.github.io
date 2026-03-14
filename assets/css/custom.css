@@ -65,6 +65,7 @@
 .page__content h1:first-of-type,
 .page__content h2:first-of-type { margin-top: -10px; padding-top: 0; }
 .page__content h1 { font-size: 165%; padding-bottom: 0.3em; }
+.page__content h2:first-of-type { font-size: 165%; }
 
 /* Spacing between sections */
 .page__content .section-block { margin-bottom: 1.5em; }

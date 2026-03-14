@@ -15,7 +15,6 @@ Hi there! My name is **Erdemt Bao**, and I am currently a second-year master's s
 My research interests include **Embodied Intelligence, and Robot Learning**. My current research mainly focuses on **Vision-Language-Action (VLA) models, Imitation Learning, and Robot Skill Learning**.
 
 Please feel free to contact me via email at [baoerdemt366@gmail.com](mailto:baoerdemt366@gmail.com) if you are interested in my work or would like to collaborate with me.
-
 I am currently seeking opportunities to apply for **U.S. PhD programs** for Fall 2027. 
 <!-- Here is my [CV](/files/cv.pdf). -->
 
@@ -75,7 +74,7 @@ I am currently seeking opportunities to apply for **U.S. PhD programs** for Fall
 <tbody>
 <tr><td style="width: 200px; padding: 10px; vertical-align: top;">
 <div class="container"><video autoplay loop muted width="180" playsinline webkit-playsinline style="box-shadow: 4px 4px 4px #888888;"><source src="/files/work/2022-Pipeline-robots.mp4" type="video/mp4"></video></div></td>
-<td style="padding: 10px;"><b style="font-size: 15px; color: #054095;">A Miniature Pipeline Inspection Robot Based on Structured-Light 3D Scanning</b><div style="height: 5px;"></div><div style="font-size: 12px;">XXX, XXX</div><div style="height: 5px;"></div><i style="font-size: 12px; color: red;"><b>XXX</b></i></td></tr>
+<td style="padding: 10px;"><b style="font-size: 15px; color: #054095;">A Miniature Pipeline Inspection Robot Based on Structured-Light 3D Scanning</b><div style="height: 5px;"></div><div style="font-size: 12px;">XXXnCyNLVath4yNUFFgW4jF, XXX</div><div style="height: 5px;"></div><i style="font-size: 12px; color: red;"><b>XXX</b></i></td></tr>
 </tbody>
 </table>
 <table class="tb-publications" style="width: 100%; border: none;">
@@ -127,7 +126,7 @@ I am currently seeking opportunities to apply for **U.S. PhD programs** for Fall
 ## Reports & Media {#reports}
 
 <div style="font-size: 15px">
-[05/2024] <a href="https://mp.weixin.qq.com/s/WEnskOukav5cQsm6CXvilA" target="_blank">《放榜！第十八届"理工青年十大风云学子""理工青年十大精英团队"发布！》</a><br>武汉理工大学团委微信公众号，阅读量超 6000。<br>
-[04/2024] <a href="https://mp.weixin.qq.com/s/gQ213_tOPVilCEQZjfAyZg" target="_blank">《这个勤奋、热心的蒙古族帅小伙，他是包额尔德木图！》</a><br>武汉理工大学微信公众号，阅读量超 8000。<br>
-[12/2023] <a href="http://218.197.103.36/xywh/xyrw/202503/t20250312_1321234.shtml" target="_blank">《【闪亮的名字】包额尔德木图：从内蒙古草原到大学校园，将感恩融入服务和成长中》</a><br>武汉理工大学自动化学院官网。<br>
+[05/2024] <a href="https://mp.weixin.qq.com/s/WEnskOukav5cQsm6CXvilA" target="_blank">《放榜！第十八届"理工青年十大风云学子""理工青年十大精英团队"发布！》</a><br>the wechat official account of WHUT Youth League committee, over 6,000 views.<br>
+[04/2024] <a href="https://mp.weixin.qq.com/s/gQ213_tOPVilCEQZjfAyZg" target="_blank">《这个勤奋、热心的蒙古族帅小伙，他是包额尔德木图！》</a><br>the wechat official account of WHUT, over 8,000 views.<br>
+[12/2023] <a href="http://218.197.103.36/xywh/xyrw/202503/t20250312_1321234.shtml" target="_blank">《【闪亮的名字】包额尔德木图：从内蒙古草原到大学校园，将感恩融入服务和成长中》</a><br>the official web of WHUT School of Automation.<br>
 </div>
