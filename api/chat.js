@@ -104,11 +104,14 @@ export default async function handler(req, res) {
       let errMsg = 'AI service temporarily unavailable';
       try {
         const errJson = JSON.parse(errText);
-        const detail = errJson?.error?.message || errJson?.message;
-        if (response.status === 400 && /API_KEY|api.key|invalid/i.test(detail || '')) errMsg = 'API key invalid or missing. Check Vercel env vars.';
+        const detail = errJson?.error?.message ?? errJson?.error ?? errJson?.message ?? errText?.slice(0, 300);
+        if (response.status === 400 && /API_KEY|api.key|invalid|permission/i.test(String(detail))) errMsg = 'API key invalid or missing. Check Vercel env vars and redeploy.';
         else if (response.status === 429) errMsg = 'Rate limit exceeded. Try again later.';
-        else if (detail) errMsg = detail;
-      } catch (_) {}
+        else if (response.status === 403) errMsg = 'Gemini API access denied. Check API key and region restrictions.';
+        else if (detail) errMsg = String(detail).slice(0, 500);
+      } catch (_) {
+        if (errText) errMsg = errText.slice(0, 300);
+      }
       return res.status(502).json({ error: errMsg });
     }
 
