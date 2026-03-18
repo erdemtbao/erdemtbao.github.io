@@ -56,9 +56,9 @@ I am currently seeking opportunities to apply for **U.S. PhD programs** for Fall
 <p><i style="font-size: 12px; color: red;"><b>Meritorious Winner</b></i></p>
 <div style="font-size: small">Team: WHUT</div></td></tr>
 </table>
-<div style="margin-bottom: 6px;">· <b>National Grand Prize (3rd Place Overall)</b>, The 16th "Siemens Cup" China Intelligent Manufacturing Challenge (CIMC), 2022.</div>
+<div style="margin-bottom: 6px;">· <b>Bronze Medal</b>, Kaggle Challenge, UM - Game-Playing Strength of MCTS Variants, 2024.</div>
 <div style="margin-bottom: 6px;">· <b>National 1st Prize</b>, The 16th National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction, 2023.</div>
-<div>· <b>Bronze Medal</b>, Kaggle Challenge, UM - Game-Playing Strength of MCTS Variants.</div>
+<div>· <b>National Grand Prize (3rd Place Overall)</b>, The 16th "Siemens Cup" China Intelligent Manufacturing Challenge (CIMC), 2022.</div>
 
 ---
 
