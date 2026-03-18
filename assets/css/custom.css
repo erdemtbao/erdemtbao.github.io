@@ -78,6 +78,20 @@
 /* Publication tables like old site */
 .tb-publications { border-collapse: collapse; margin-top: 0; margin-bottom: 0; }
 .tb-publications td { vertical-align: top; }
+/* Publications: uniform thumbnail size for alignment */
+.tb-publications .pub-thumb-wrap {
+  width: 180px;
+  height: 100px;
+  overflow: hidden;
+  border-radius: 4px;
+  box-shadow: 4px 4px 4px #888888;
+}
+.tb-publications .pub-thumb-media {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
 .tb-education { border-collapse: collapse; }
 .tb-education td { border: none; vertical-align: top; }
 .tb-challenge { border-collapse: collapse; }
