@@ -100,9 +100,11 @@
 .tb-education td div { margin: 0; line-height: 1.4; }
 .tb-education td p + div,
 .tb-education td div + div { margin-top: 1px; }
+/* Unified blue title for project/item entries: Publications, Challenge Awards, Engineering Projects, Open-source Projects */
+.item-title { font-size: 15px; color: #054095; font-weight: bold; }
+
 .tb-challenge { border-collapse: collapse; }
 .tb-challenge td { border: none; vertical-align: middle; }
-.tb-challenge td > b { color: #054095; }
 .tb-challenge td p { margin: 0 0 0 0; }
 .tb-challenge td div[style*="font-size: small"] { margin-top: 2px; }
 
