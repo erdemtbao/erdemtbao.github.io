@@ -57,9 +57,9 @@ I am currently seeking opportunities to apply for **U.S. PhD programs** for Fall
 <div style="font-size: small">With Chen Gang, Song Yifan.</div>
 <div style="font-size: small">Team: WHUT</div></td></tr>
 </table>
-· National Grand Prize (3rd Place Overall), The 16th "Siemens Cup" China Intelligent Manufacturing Challenge (CIMC), 2022.
-· National 1st Prize, The 16th National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction, 2023.
-· Bronze Medal, Kaggle Challenge, UM - Game-Playing Strength of MCTS Variants.
+<div style="margin-bottom: 6px;">· <b>National Grand Prize (3rd Place Overall)</b>, The 16th "Siemens Cup" China Intelligent Manufacturing Challenge (CIMC), 2022.</div>
+<div style="margin-bottom: 6px;">· <b>National 1st Prize</b>, The 16th National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction, 2023.</div>
+<div>· <b>Bronze Medal</b>, Kaggle Challenge, UM - Game-Playing Strength of MCTS Variants.</div>
 
 ---
 
@@ -76,14 +76,14 @@ I am currently seeking opportunities to apply for **U.S. PhD programs** for Fall
 <tbody>
 <tr><td style="width: 200px; padding: 10px; vertical-align: top;">
 <div class="container"><video autoplay loop muted width="180" playsinline webkit-playsinline style="box-shadow: 4px 4px 4px #888888;"><source src="/files/work/2022-Pipeline-robots.mp4" type="video/mp4"></video></div></td>
-<td style="padding: 10px;"><b style="font-size: 15px; color: #054095;">A Miniature Pipeline Inspection Robot Based on Structured-Light 3D Scanning</b><div style="height: 5px;"></div><div style="font-size: 12px;">XXXnCyNLVath4yNUFFgW4jF, XXX</div><div style="height: 5px;"></div><i style="font-size: 12px; color: red;"><b>XXX</b></i></td></tr>
+<td style="padding: 10px;"><b style="font-size: 15px; color: #054095;">A Miniature Pipeline Inspection Robot Based on Structured-Light 3D Scanning</b><div style="height: 5px;"></div><div style="font-size: 12px;">Team: WHUT</div><div style="height: 5px;"></div><i style="font-size: 12px; color: red;"><b>Excellent Project, National Undergraduate Innovation and Entrepreneurship Training Program</b></i></td></tr>
 </tbody>
 </table>
 <table class="tb-publications" style="width: 100%; border: none;">
 <tbody>
 <tr><td style="width: 200px; padding: 10px; vertical-align: top;">
 <div class="container"><video autoplay loop muted width="180" playsinline webkit-playsinline style="box-shadow: 4px 4px 4px #888888;"><source src="/files/work/2023-Recycling-robots.mp4" type="video/mp4"></video></div></td>
-<td style="padding: 10px;"><b style="font-size: 15px; color: #054095;">A Robotic System for Disassembly and Recycling of Waste Printed Circuit Boards Toward Component Reuse</b><div style="height: 5px;"></div><div style="font-size: 12px;">XXX, XXX</div><div style="height: 5px;"></div><i style="font-size: 12px; color: red;"><b>XXX</b></i></td></tr>
+<td style="padding: 10px;"><b style="font-size: 15px; color: #054095;">ReChip: E-Waste Dismantling and Recycling Technology and Process Management System</b><div style="height: 5px;"></div><div style="font-size: 12px;">Team: Green Core</div><div style="height: 5px;"></div><i style="font-size: 12px; color: red;"><b>Three-time National Award Winner</b></i></td></tr>
 </tbody>
 </table>
 

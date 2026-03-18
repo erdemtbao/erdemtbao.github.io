@@ -94,6 +94,8 @@
 }
 .tb-education { border-collapse: collapse; }
 .tb-education td { border: none; vertical-align: top; }
+.tb-education td:first-child { width: 260px !important; padding-right: 16px; }
+.tb-education td:first-child img { margin-left: 10px !important; }
 .tb-education td p { margin: 0 0 2px 0; line-height: 1.35; }
 .tb-education td div { margin: 0; line-height: 1.4; }
 .tb-education td p + div,
