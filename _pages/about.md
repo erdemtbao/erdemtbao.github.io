@@ -59,10 +59,14 @@ I am currently seeking opportunities to apply for **U.S. PhD programs** for Fall
 </table>
 · National Grand Prize (3rd Place Overall), The 16th "Siemens Cup" China Intelligent Manufacturing Challenge (CIMC), 2022.
 
+---
+
+## Honors {#honors}
+
 - 🏆 WHUT Top Ten Outstanding Students
 - 🏆 WHUT Top Ten Elite Teams
 
-<hr />
+---
 
 ## Engineering Projects {#engineering-projects}
 
@@ -101,7 +105,7 @@ I am currently seeking opportunities to apply for **U.S. PhD programs** for Fall
 <div style="font-size: 12px">Sept. 2024 – Jun. 2027 (expected)</div></td></tr>
 </table>
 <table class="tb-education" style="width: 100%; border: none; margin-top: 20px;">
-<tr><td style="width: 320px;"><img src="/files/institute/whut.png" width="220px" style="margin-left: 40px"></td>
+<tr><td style="width: 320px;"><img src="/files/institute/whut.png" width="230px" style="margin-left: 35px"></td>
 <td><p><b>Wuhan University of Technology (WHUT)</b><br><b style="font-size: 12px;"><a href="http://sa.whut.edu.cn/">School of Automation (SA)</a></b></p>
 <div style="font-size: 12px">Bachelor of Engineering in Automation</div>
 <div style="font-size: 12px">Sept. 2020 – Jun. 2024</div></td></tr>
@@ -112,7 +116,7 @@ I am currently seeking opportunities to apply for **U.S. PhD programs** for Fall
 ## Research Experience {#research-experience}
 
 <table class="tb-education" style="width: 100%; border: none;">
-<tr><td style="width: 320px;"><img src="/files/institute/scut.png" width="250px" style="margin-left: 45px"></td>
+<tr><td style="width: 320px;"><img src="/files/institute/scut.png" width="230px" style="margin-left: 35px"></td>
 <td><p><b>South China University of Technology (SCUT)</b><br><b style="font-size: 12px;"><a href="https://miaa.cc/">MIAA Lab</a></b></p>
 <div style="font-size: 12px">Research Intern</div>
 <div style="font-size: 12px">2025 – Present</div>
