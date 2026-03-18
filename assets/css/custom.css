@@ -77,7 +77,7 @@
 
 /* Publication tables like old site */
 .tb-publications { border-collapse: collapse; margin-top: 0; margin-bottom: 0; }
-.tb-publications td { vertical-align: top; }
+.tb-publications td { vertical-align: middle; }
 /* Publications: uniform thumbnail size for alignment */
 .tb-publications .pub-thumb-wrap {
   width: 180px;
@@ -93,7 +93,7 @@
   display: block;
 }
 .tb-education { border-collapse: collapse; }
-.tb-education td { border: none; vertical-align: top; }
+.tb-education td { border: none; vertical-align: middle; }
 .tb-education td:first-child { width: 260px !important; padding-right: 16px; }
 .tb-education td:first-child img { margin-left: 10px !important; }
 .tb-education td p { margin: 0 0 2px 0; line-height: 1.35; }
@@ -101,7 +101,7 @@
 .tb-education td p + div,
 .tb-education td div + div { margin-top: 1px; }
 .tb-challenge { border-collapse: collapse; }
-.tb-challenge td { border: none; vertical-align: top; }
+.tb-challenge td { border: none; vertical-align: middle; }
 .tb-challenge td > b { color: #054095; }
 .tb-challenge td p { margin: 0 0 0 0; }
 .tb-challenge td div[style*="font-size: small"] { margin-top: 2px; }
@@ -169,7 +169,7 @@
   margin-bottom: 20px;
 }
 .page__content table td {
-  vertical-align: top;
+  vertical-align: middle;
   padding: 8px 4px;
 }
 .page__content table img {
@@ -189,7 +189,7 @@
   display: table-cell;
   width: 200px;
   padding-right: 12px;
-  vertical-align: top;
+  vertical-align: middle;
 }
 .pub-thumb img, .pub-thumb video {
   width: 180px;
@@ -197,7 +197,7 @@
   box-shadow: 4px 4px 4px #888;
   border-radius: 4px;
 }
-.pub-info { display: table-cell; vertical-align: top; }
+.pub-info { display: table-cell; vertical-align: middle; }
 .pub-title { font-size: 15px; color: #054095; font-weight: bold; margin-bottom: 4px; }
 .pub-meta { font-size: 12px; color: #333; }
 
@@ -211,9 +211,9 @@
   width: 150px;
   box-shadow: 4px 4px 8px #888;
   margin-right: 16px;
-  vertical-align: top;
+  vertical-align: middle;
 }
-.challenge-row > div { display: table-cell; vertical-align: top; }
+.challenge-row > div { display: table-cell; vertical-align: middle; }
 
 /* Body text size like old site */
 .page__content p, .page__content li { font-size: 15px; line-height: 1.6; }
