@@ -120,7 +120,7 @@ I am currently seeking opportunities to apply for **U.S. PhD programs** for Fall
 <tr><td style="width: 320px;"><img src="/files/institute/scut.png" width="230px" style="margin-left: 35px"></td>
 <td><p><b>South China University of Technology (SCUT)</b><br><b style="font-size: 12px;"><a href="https://miaa.cc/">MIAA Lab</a></b></p>
 <div style="font-size: 12px">Research Intern, Robot Skill Learning.</div>
-<div style="font-size: 12px">Apr. 2025 – Present</div></td></tr>
+<div style="font-size: 12px">2025 – 2026</div></td></tr>
 </table>
 
 ---
