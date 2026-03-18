@@ -220,3 +220,14 @@ html { zoom: 1.1; }
 
 /* Body text size like old site */
 .page__content p, .page__content li { font-size: 15px; line-height: 1.6; }
+
+/* Unified link color for all hyperlinks in main content */
+.layout-home-old .page__content a,
+.layout-home-old .home-old__main a {
+  color: #054095 !important;
+}
+.layout-home-old .page__content a:hover,
+.layout-home-old .home-old__main a:hover {
+  color: #054095 !important;
+  opacity: 0.85;
+}
