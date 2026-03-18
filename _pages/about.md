@@ -54,7 +54,6 @@ I am currently seeking opportunities to apply for **U.S. PhD programs** for Fall
 <tr><td style="width: 210px;"><img src="/files/award/2023-MCMICM.png" width="150" style="box-shadow: 4px 4px 8px #888; margin-left: 30px;"></td>
 <td style="font-size: 15px;"><b style="color: #054095;">2023 Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM)</b>
 <p><i style="color: red;"><b>Meritorious Winner</b></i></p>
-<div style="font-size: small">With Chen Gang, Song Yifan.</div>
 <div style="font-size: small">Team: WHUT</div></td></tr>
 </table>
 <div style="margin-bottom: 6px;">· <b>National Grand Prize (3rd Place Overall)</b>, The 16th "Siemens Cup" China Intelligent Manufacturing Challenge (CIMC), 2022.</div>
