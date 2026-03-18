@@ -91,7 +91,7 @@ I am currently seeking opportunities to apply for **U.S. PhD programs** for Fall
 
 <table style="border-spacing: 2px; font-size: 15px; width: 100%;">
 <tr><td style="width: 200px;"><img src="/files/work/2026-Awesome-Robotics-Skill-Learning.png" width="140" style="margin-left: 25px;"></td>
-<td><b style="font-size: 15px;">Awesome-Robotics-Skill-Learning</b><br><div style="height: 8px;"></div><i>Founder & Co-Project Lead & Co-First Author</i><br><div style="height: 8px;"></div>Project Link: <a href="https://github.com/erdemtbao/Awesome-Robot-Skill-Learning">https://github.com/erdemtbao/Awesome-Robot-Skill-Learning</a></td></tr>
+<td><b style="font-size: 15px;">Awesome-Robotics-Skill-Learning</b><br><div style="height: 8px;"></div><i>Co-Project Lead & Co-First Author</i><br><div style="height: 8px;"></div><a href="https://github.com/erdemtbao/Awesome-Robot-Skill-Learning" target="_blank" rel="noopener">Project Link</a></td></tr>
 </table>
 
 ---

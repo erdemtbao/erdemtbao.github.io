@@ -27,10 +27,16 @@
       <li><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
     {% endif %}
     {% if author.email %}
-      <li><a href="mailto:{{ author.email }}" title="{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ author.email }}</a></li>
+      <li><a href="mailto:{{ author.email }}" title="{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>Email</a></li>
+    {% endif %}
+    {% if author.twitter %}
+      <li><a href="{{ author.twitter }}" target="_blank" rel="noopener" title="Twitter"><i class="fab fa-fw fa-x-twitter icon-pad-right" aria-hidden="true"></i>Twitter</a></li>
     {% endif %}
     {% if author.github %}
       <li><a href="https://github.com/{{ author.github }}/" target="_blank" rel="noopener" title="GitHub"><i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>GitHub</a></li>
+    {% endif %}
+    {% if author.googlescholar %}
+      <li><a href="{{ author.googlescholar }}" target="_blank" rel="noopener" title="Google Scholar"><i class="ai ai-google-scholar ai-fw icon-pad-right" aria-hidden="true"></i>Google Scholar</a></li>
     {% endif %}
   </ul>
 </div>

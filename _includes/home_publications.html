@@ -22,7 +22,14 @@
         <div style="height: 5px;"></div>
         {% if post.venue %}<i style="font-size: 12px; {% if post.category == 'conferences' %}color: red;{% endif %}"><b>{{ post.venue }}</b></i>{% endif %}
         <div style="height: 5px;"></div>
-        {% if post.paperurl %}<div style="font-size: 12px;"><a href="{{ post.paperurl }}" target="_blank">arXiv</a></div>{% endif %}
+        {% if post.project_page or post.paperurl or post.arxiv or post.code %}
+        <div style="font-size: 12px;">
+          {% if post.project_page %}<a href="{{ post.project_page }}" target="_blank" rel="noopener">Project Page</a>{% endif %}
+          {% if post.project_page and post.paperurl %} / {% endif %}{% if post.paperurl %}<a href="{{ post.paperurl }}" target="_blank" rel="noopener">Paper</a>{% endif %}
+          {% if post.arxiv %}{% if post.project_page or post.paperurl %} / {% endif %}<a href="{{ post.arxiv }}" target="_blank" rel="noopener">arXiv</a>{% endif %}
+          {% if post.code %}{% if post.project_page or post.paperurl or post.arxiv %} / {% endif %}<a href="{{ post.code }}" target="_blank" rel="noopener">Code</a>{% endif %}
+        </div>
+        {% endif %}
       </td>
     </tr>
   </tbody>
