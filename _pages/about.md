@@ -14,7 +14,7 @@ Hi there! My name is **Erdemt Bao**, and I am currently a second-year master's s
 
 My research interests include **Robot Learning**. My current research mainly focuses on **Vision-Language-Action (VLA) models, Imitation Learning, and Robot Skill Learning**.
 
-Please feel free to contact me via email at [baoerdemt366@gmail.com](mailto:baoerdemt366@gmail.com) if you are interested in my work or would like to collaborate with me.😄
+Please feel free to contact me via email at [baoerdemt366@gmail.com](mailto:baoerdemt366@gmail.com) if you are interested in my work or would like to collaborate with me.😄<br>
 I am currently seeking opportunities to apply for **U.S. PhD programs** for Fall 2027. 
 <!-- Here is my [CV](/files/cv.pdf). -->
 
