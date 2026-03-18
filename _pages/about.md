@@ -12,7 +12,7 @@ redirect_from:
 
 Hi there! My name is **Erdemt Bao**, and I am currently a second-year master's student at the School of Mechanical Science and Engineering (MSE), Huazhong University of Science and Technology (HUST). Before my master's studies, I obtained my bachelor's degree from the School of Automation at Wuhan University of Technology in June 2024.
 
-My research interests include **Embodied Intelligence, and Robot Learning**. My current research mainly focuses on **Vision-Language-Action (VLA) models, Imitation Learning, and Robot Skill Learning**.
+My research interests include **Robot Learning**. My current research mainly focuses on **Vision-Language-Action (VLA) models, Imitation Learning, and Robot Skill Learning**.
 
 Please feel free to contact me via email at [baoerdemt366@gmail.com](mailto:baoerdemt366@gmail.com) if you are interested in my work or would like to collaborate with me.😄
 I am currently seeking opportunities to apply for **U.S. PhD programs** for Fall 2027. 
