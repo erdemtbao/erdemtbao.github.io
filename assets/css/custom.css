@@ -1,7 +1,7 @@
 /* Match erdemtbao_old.github.io / tianxingchen.github.io layout and style */
 
-/* Default page zoom: 110% */
-html { zoom: 1.1; }
+/* Default page zoom: 100% */
+html { zoom: 1; }
 
 /* Sidebar: no horizontal scroll, school name wraps, links always visible and clickable */
 .sidebar { overflow-x: hidden; }
