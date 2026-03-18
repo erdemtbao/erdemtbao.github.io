@@ -94,6 +94,10 @@
 }
 .tb-education { border-collapse: collapse; }
 .tb-education td { border: none; vertical-align: top; }
+.tb-education td p { margin: 0 0 2px 0; line-height: 1.35; }
+.tb-education td div { margin: 0; line-height: 1.4; }
+.tb-education td p + div,
+.tb-education td div + div { margin-top: 1px; }
 .tb-challenge { border-collapse: collapse; }
 .tb-challenge td { border: none; vertical-align: top; }
 .tb-challenge td > b { color: #054095; }
