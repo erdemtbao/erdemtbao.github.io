@@ -138,5 +138,5 @@ I am currently seeking opportunities to apply for **U.S. PhD programs** for Fall
 ## Blog {#blog}
 
 <div style="font-size: 15px">
-I maintain a separate technical blog for notes, tutorials, and longer-form writing. Visit <a href="https://erdemtbao.github.io/blog/" target="_blank" rel="noopener" class="blog-pill-link">Erdemt's Blog</a> .
+I maintain a separate technical blog for notes, tutorials, and longer-form writing. Visit <a class="blog-badge-link" href="https://erdemtbao.github.io/blog/" target="_blank" rel="noopener">Erdemt's Blog</a>.
 </div>

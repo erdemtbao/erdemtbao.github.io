@@ -232,23 +232,22 @@ html { zoom: 1; }
   opacity: 0.85;
 }
 
-/* Blog section: pill button (overrides unified link color) */
-.layout-home-old .page__content a.blog-pill-link,
-.layout-home-old .home-old__main a.blog-pill-link {
+/* Blog section: pill-style link (overrides unified link color above) */
+.layout-home-old .page__content a.blog-badge-link,
+.layout-home-old .home-old__main a.blog-badge-link {
   display: inline-block;
+  padding: 6px 14px;
+  border-radius: 8px;
   background-color: #054095;
   color: #fff !important;
-  padding: 6px 16px;
-  border-radius: 10px;
   text-decoration: none !important;
   font-weight: bold;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.12);
-  opacity: 1 !important;
+  opacity: 1;
 }
-.layout-home-old .page__content a.blog-pill-link:hover,
-.layout-home-old .home-old__main a.blog-pill-link:hover {
+.layout-home-old .page__content a.blog-badge-link:hover,
+.layout-home-old .home-old__main a.blog-badge-link:hover {
   color: #fff !important;
   background-color: #043a7a;
-  opacity: 1 !important;
+  opacity: 1;
   text-decoration: none !important;
 }
