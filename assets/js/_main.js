@@ -28,7 +28,7 @@ let setTheme = (theme) => {
     theme ||
     localStorage.getItem("theme") ||
     $("html").attr("data-theme") ||
-    browserPref;
+    "light"; // default light (was browserPref: OS dark mode made whole site gray without theme toggle)
 
   if (use_theme === "dark") {
     $("html").attr("data-theme", "dark");
@@ -90,17 +90,22 @@ $(document).ready(function () {
   const scssLarge = 925;          // pixels, from /_sass/_themes.scss
   const scssMastheadHeight = 70;  // pixels, from the current theme (e.g., /_sass/theme/_default.scss)
 
-  // If the user hasn't chosen a theme, follow the OS preference
+  // Masthead has no #theme-toggle: force light (ignore OS dark + stale localStorage "dark")
+  if ($("#theme-toggle").length === 0) {
+    try {
+      localStorage.setItem("theme", "light");
+    } catch (e) { /* ignore */ }
+  }
   setTheme();
-  window.matchMedia('(prefers-color-scheme: dark)')
-        .addEventListener("change", (e) => {
-          if (!localStorage.getItem("theme")) {
-            setTheme(e.matches ? "dark" : "light");
-          }
-        });
+  window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", (e) => {
+    if ($("#theme-toggle").length === 0) return;
+    if (!localStorage.getItem("theme")) {
+      setTheme(e.matches ? "dark" : "light");
+    }
+  });
 
-  // Enable the theme toggle
-  $('#theme-toggle').on('click', toggleTheme);
+  // Enable the theme toggle (if present)
+  $("#theme-toggle").on("click", toggleTheme);
 
   // Enable the sticky footer
   var bumpIt = function () {
