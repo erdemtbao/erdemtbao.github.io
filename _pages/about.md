@@ -132,3 +132,11 @@ I am currently seeking opportunities to apply for **U.S. PhD programs** for Fall
 [04/2024] <a href="https://mp.weixin.qq.com/s/gQ213_tOPVilCEQZjfAyZg" target="_blank">《这个勤奋、热心的蒙古族帅小伙，他是包额尔德木图！》</a><br>the wechat official account of WHUT, over 8,000 views.<br>
 [12/2023] <a href="http://218.197.103.36/xywh/xyrw/202503/t20250312_1321234.shtml" target="_blank">《【闪亮的名字】包额尔德木图：从内蒙古草原到大学校园，将感恩融入服务和成长中》</a><br>the official web of WHUT School of Automation.<br>
 </div>
+
+---
+
+## Blog {#blog}
+
+<div style="font-size: 15px">
+I maintain a separate technical blog for notes, tutorials, and longer-form writing. Visit <a href="https://erdemtbao.github.io/blog/" target="_blank" rel="noopener"><b>Erdemt's Blog</b></a> (hosted at <code>erdemtbao.github.io/blog</code>).
+</div>
