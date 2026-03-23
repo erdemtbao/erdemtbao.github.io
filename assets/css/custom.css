@@ -231,3 +231,24 @@ html { zoom: 1; }
   color: #054095 !important;
   opacity: 0.85;
 }
+
+/* Blog section: pill button (overrides unified link color) */
+.layout-home-old .page__content a.blog-pill-link,
+.layout-home-old .home-old__main a.blog-pill-link {
+  display: inline-block;
+  background-color: #054095;
+  color: #fff !important;
+  padding: 6px 16px;
+  border-radius: 10px;
+  text-decoration: none !important;
+  font-weight: bold;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.12);
+  opacity: 1 !important;
+}
+.layout-home-old .page__content a.blog-pill-link:hover,
+.layout-home-old .home-old__main a.blog-pill-link:hover {
+  color: #fff !important;
+  background-color: #043a7a;
+  opacity: 1 !important;
+  text-decoration: none !important;
+}
