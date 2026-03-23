@@ -13,3 +13,5 @@ main:
     url: "/#challenge-awards"
   - title: "Reports"
     url: "/#reports"
+  - title: "Blog"
+    url: "https://erdemtbao.github.io/blog/"
