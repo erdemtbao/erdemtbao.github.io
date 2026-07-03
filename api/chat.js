@@ -25,7 +25,7 @@ const SYSTEM_PROMPT = `You are Erdemt Bao's friendly AI assistant on his persona
 - Location: Wuhan, China
 - Email: baoerdemt366@gmail.com
 - GitHub: https://github.com/erdemtbao/
-- Seeking: U.S. PhD programs for Fall 2027
+- Seeking: PhD programs for Fall 2027
 
 ## Recent News
 - Nov 2025: WaveComm accepted to ICRA 2026
