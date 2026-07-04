@@ -16,7 +16,7 @@ Education
 * **Huazhong University of Science and Technology (HUST)**, School of Mechanical Science & Engineering (MSE) — Master's Student, Oct. 2025 – Jun. 2029 (expected)
 * **Wuhan University of Technology (WHUT)**, School of Automation (SA) — B.Eng. in Computer Science and Technology (Outstanding Class), Sep. 2021 – Jul. 2025
 
-Research experience
+Intern experience
 ======
 * **2025 – 2026:** Research Intern, [MIAA Lab](https://miaa.cc/), South China University of Technology — Embodied Intelligence
 

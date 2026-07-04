@@ -8,6 +8,6 @@ author_profile: true
 
 | | |
 |:---:|:---|
-| ![Awesome Robotics Skill Learning](/files/work/2026-Awesome-Robotics-Skill-Learning.png){: width="140px"} | **Awesome-Robotics-Skill-Learning**  
+| ![Awesome Robot Skill Learning](/files/work/2026-Awesome-Robot-Skill-Learning.png){: width="140px"} | **Awesome-Robot-Skill-Learning**  
 | | *Co-Founder & Co-Project Lead & Co-First Author*  
 | | Project: [https://github.com/erdemtbao/Awesome-Robot-Skill-Learning](https://github.com/erdemtbao/Awesome-Robot-Skill-Learning) |
