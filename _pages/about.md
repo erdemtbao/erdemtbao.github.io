@@ -119,7 +119,7 @@ I am currently seeking opportunities to apply for PhD programs for Fall 2027.
 <table class="tb-education" style="width: 100%; border: none;">
 <tr><td style="width: 320px;"><img src="/files/institute/agibot.png" width="230px" style="margin-left: 35px"></td>
 <td><p><b><a href="https://www.agibot.com/">AGIBOT Innovation (Shanghai) Technology Co., Ltd.</a></b><br><b style="font-size: 12px;">AI Platform</b></p>
-<div style="font-size: 12px">Engineering Intern, Embodied AI Model Infrastructure.</div>
+<div style="font-size: 12px">Research Intern, Embodied AI Model Infrastructure.</div>
 <div style="font-size: 12px">Jun. 2026 – Present</div></td></tr>
 </table>
 <table class="tb-education" style="width: 100%; border: none; margin-top: 20px;">
