@@ -15,7 +15,9 @@ Hi there! My name is **Erdemt Bao**, and I am currently a second-year master's s
 My research interests include **Robot Learning**. My current research mainly focuses on **Vision-Language-Action (VLA) models, Imitation Learning, and Robot Skill Learning**.
 
 Please feel free to contact me at [Email](mailto:baoerdemt366@gmail.com) if you are interested in my work or would like to collaborate with me.😄<br>
-I am currently seeking opportunities to apply for PhD programs for Fall 2027. 
+
+<!-- I am currently seeking opportunities to apply for PhD programs for Fall 2027.  -->
+
 <!-- Here is my [CV](/files/cv.pdf). -->
 
 ---
@@ -120,7 +122,7 @@ I am currently seeking opportunities to apply for PhD programs for Fall 2027.
 <tr><td style="width: 320px;"><img src="/files/institute/agibot.png" width="230px" style="margin-left: 35px"></td>
 <td><p><b><a href="https://www.agibot.com/">AGIBOT Innovation (Shanghai) Technology Co., Ltd.</a></b><br><b style="font-size: 12px;">AI Platform</b></p>
 <div style="font-size: 12px">Research Intern, Embodied AI Infra.</div>
-<div style="font-size: 12px">Jun. 2026 – Present</div></td></tr>
+<div style="font-size: 12px">2026 – Present</div></td></tr>
 </table>
 <table class="tb-education" style="width: 100%; border: none; margin-top: 20px;">
 <tr><td style="width: 320px;"><img src="/files/institute/scut.png" width="230px" style="margin-left: 35px"></td>
