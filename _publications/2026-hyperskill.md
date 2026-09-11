@@ -4,7 +4,6 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-hyperskill
 order: 2
-date:
 highlight: true
 show_empty_links: true
 venue: 'Under Review'
