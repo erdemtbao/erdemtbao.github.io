@@ -12,7 +12,7 @@ redirect_from:
 
 Hi there! My name is **Erdemt Bao**, and I am currently a second-year master's student at the School of Mechanical Science and Engineering (MSE), Huazhong University of Science and Technology (HUST). Before my master's studies, I obtained my bachelor's degree from the School of Automation at Wuhan University of Technology in June 2024.
 
-My research interests include **Robot Learning**. My current research mainly focuses on **Vision-Language-Action (VLA) models, Imitation Learning, and Robot Skill Learning**.
+My research interests lie in **Robot Learning**, with a particular focus on **Vision-Language-Action (VLA) models, World Action Models (WAMs), and Robot Skill Learning**.
 
 Please feel free to contact me at [Email](mailto:baoerdemt366@gmail.com) if you are interested in my work or would like to collaborate with me.😄<br>
 
@@ -24,6 +24,7 @@ Please feel free to contact me at [Email](mailto:baoerdemt366@gmail.com) if you 
 
 # 🔥 News {#news}
 
+- *2026.07*: &nbsp;🎉 Thrilled to have exhibited at WAIC 2026 in Shanghai!
 - *2025.11*: &nbsp;🎉 WaveComm is accepted to ICRA 2026!
 - *2025.06*: &nbsp;🎉 [Our team wins a first prize in RoboTwin Dual-Arm Collaboration Challenge of CVPR2025 (Real-world Track)!](https://miaa.cc/2025-06-19-robotwin-challenge/).
 - *2025.05*: &nbsp;🎉 [Our team wins a silver medal in RoboTwin Dual-Arm Collaboration Challenge of CVPR2025(Simulation Round 1)!](https://miaa.cc/2025-05-08-robotwin-challenge/).

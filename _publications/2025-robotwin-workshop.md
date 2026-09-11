@@ -3,7 +3,7 @@ title: "Benchmarking Generalizable Bimanual Manipulation: RoboTwin Dual-Arm Coll
 collection: publications
 category: conferences
 permalink: /publication/2025-robotwin-workshop
-order: 4
+order: 5
 date: 2025-06-01
 venue: 'Technical Report of the CVPR 2025 RoboTwin Challenge at the MEIS Workshop'
 project_page: 'https://robotwin-benchmark.github.io/cvpr-2025-challenge/'

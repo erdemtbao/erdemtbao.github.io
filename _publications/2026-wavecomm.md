@@ -3,7 +3,7 @@ title: "WaveComm: Lightweight Communication for Collaborative Perception Via Wav
 collection: publications
 category: conferences
 permalink: /publication/2026-wavecomm
-order: 3
+order: 4
 date: 2026-05-01
 venue: 'ICRA 2026'
 paperurl: 'https://arxiv.org/abs/2603.13365'
