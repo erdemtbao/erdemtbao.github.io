@@ -81,6 +81,8 @@ html { zoom: 1; }
 /* Publication tables like old site */
 .tb-publications { border-collapse: collapse; margin-top: 0; margin-bottom: 0; }
 .tb-publications td { vertical-align: middle; }
+.tb-publications.publication-highlight { background-color: #ffffdf; }
+.publication-link-disabled { color: #6b7280; cursor: not-allowed; }
 /* Publications: uniform thumbnail size for alignment */
 .tb-publications .pub-thumb-wrap {
   width: 180px;
@@ -250,4 +252,101 @@ html { zoom: 1; }
   background-color: #043a7a;
   opacity: 1;
   text-decoration: none !important;
+}
+
+/* Mobile-only layout: keep the desktop tables unchanged, but stack media and text
+   so long publication and experience titles remain readable on narrow screens. */
+@media (max-width: 700px) {
+  .layout-home-old .sidebar {
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+
+  .layout-home-old .sidebar .author__avatar {
+    width: 120px;
+    max-width: 120px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .layout-home-old .sidebar .author__content,
+  .layout-home-old .sidebar .author__links {
+    text-align: center;
+  }
+
+  .home-old__main {
+    padding-left: 14px;
+    padding-right: 14px;
+  }
+
+  .home-old__main table.tb-publications,
+  .home-old__main table.tb-challenge,
+  .home-old__main table.tb-education,
+  .home-old__main table.tb-project,
+  .home-old__main table.tb-publications tbody,
+  .home-old__main table.tb-challenge tbody,
+  .home-old__main table.tb-education tbody,
+  .home-old__main table.tb-project tbody,
+  .home-old__main table.tb-publications tr,
+  .home-old__main table.tb-challenge tr,
+  .home-old__main table.tb-education tr,
+  .home-old__main table.tb-project tr,
+  .home-old__main table.tb-publications td,
+  .home-old__main table.tb-challenge td,
+  .home-old__main table.tb-education td,
+  .home-old__main table.tb-project td {
+    display: block;
+    width: 100% !important;
+  }
+
+  .home-old__main table.tb-publications,
+  .home-old__main table.tb-challenge,
+  .home-old__main table.tb-education,
+  .home-old__main table.tb-project {
+    margin-bottom: 18px;
+  }
+
+  .home-old__main table.tb-publications td,
+  .home-old__main table.tb-challenge td,
+  .home-old__main table.tb-education td,
+  .home-old__main table.tb-project td {
+    padding: 7px 0 !important;
+    text-align: left;
+  }
+
+  .tb-publications .pub-thumb-wrap {
+    width: min(100%, 360px);
+    height: auto;
+    aspect-ratio: 16 / 9;
+    margin: 0 auto;
+  }
+
+  .tb-publications .pub-text-cell {
+    padding: 8px 12px 16px !important;
+  }
+
+  .project-video {
+    display: block;
+    width: min(100%, 360px);
+    height: auto;
+    margin: 0 auto;
+    border-radius: 4px;
+  }
+
+  .tb-challenge td:first-child img,
+  .tb-education td:first-child img,
+  .tb-project td:first-child img {
+    display: block;
+    width: auto;
+    max-width: min(100%, 260px);
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  .tb-publications .pub-text-cell div[style*="font-size: 12px"],
+  .tb-publications .publication-links,
+  .tb-education div[style*="font-size: 12px"],
+  .tb-education b[style*="font-size: 12px"] {
+    font-size: 14px !important;
+  }
 }

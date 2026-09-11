@@ -29,14 +29,14 @@
     {% if author.email %}
       <li><a href="mailto:{{ author.email }}" title="{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>Email</a></li>
     {% endif %}
-    {% if author.twitter %}
-      <li><a href="{{ author.twitter }}" target="_blank" rel="noopener" title="Twitter"><i class="fab fa-fw fa-x-twitter icon-pad-right" aria-hidden="true"></i>Twitter</a></li>
-    {% endif %}
     {% if author.github %}
       <li><a href="https://github.com/{{ author.github }}/" target="_blank" rel="noopener" title="GitHub"><i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>GitHub</a></li>
     {% endif %}
     {% if author.linkedin %}
       <li><a href='{{ author.linkedin }}' target='_blank' rel='noopener' title='LinkedIn'><i class='fab fa-fw fa-linkedin icon-pad-right' aria-hidden='true'></i>LinkedIn</a></li>
+    {% endif %}
+    {% if author.twitter %}
+      <li><a href="{{ author.twitter }}" target="_blank" rel="noopener" title="Twitter"><i class="fab fa-fw fa-x-twitter icon-pad-right" aria-hidden="true"></i>Twitter</a></li>
     {% endif %}
     {% comment %}
     {% if author.googlescholar %}

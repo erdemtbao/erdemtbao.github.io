@@ -1,15 +1,15 @@
 {% include base_path %}
 {% assign sorted_pubs = site.publications | sort: "order" %}
 {% for post in sorted_pubs %}
-<table class="tb-publications" style="width: 100%; border: none; margin-bottom: 0; {% if forloop.index0 == 0 or forloop.index0 == 1 or forloop.index0 == 2 or forloop.index0 == 3 %}background-color: #ffffdf;{% endif %}">
+<table class="tb-publications{% if post.highlight %} publication-highlight{% endif %}" style="width: 100%; border: none; margin-bottom: 0;">
   <tbody>
     <tr>
       <td class="pub-thumb-cell" style="width: 200px; padding: 10px; vertical-align: middle;">
         <div class="pub-thumb-wrap">
           {% if post.teaser_video %}
-            <video autoplay loop muted playsinline webkit-playsinline class="pub-thumb-media"><source src="{{ post.teaser | prepend: base_path }}" type="video/mp4"></video>
+            <video autoplay loop muted playsinline preload="none"{% if post.poster %} poster="{{ post.poster | prepend: base_path }}"{% endif %} class="pub-thumb-media lazy-video" aria-label="{{ post.title | escape }} video preview"><source data-src="{{ post.teaser | prepend: base_path }}" type="video/mp4"></video>
           {% else %}
-            <img src="{{ post.teaser | prepend: base_path }}" class="pub-thumb-media" alt="">
+            <img src="{{ post.teaser | prepend: base_path }}" class="pub-thumb-media" alt="{{ post.title | escape }} preview" loading="lazy" decoding="async">
           {% endif %}
         </div>
       </td>
@@ -20,7 +20,13 @@
         <div style="height: 5px;"></div>
         {% if post.venue %}<i style="font-size: 12px; {% if post.category == 'conferences' %}color: red;{% endif %}"><b>{{ post.venue }}</b></i>{% endif %}
         <div style="height: 5px;"></div>
-        {% if post.project_page or post.paperurl or post.arxiv or post.code %}
+        {% if post.show_empty_links %}
+        <div class="publication-links" style="font-size: 12px;">
+          <span class="publication-link-disabled" aria-disabled="true">Paper</span> /
+          <span class="publication-link-disabled" aria-disabled="true">arXiv</span> /
+          <span class="publication-link-disabled" aria-disabled="true">Code</span>
+        </div>
+        {% elsif post.project_page or post.paperurl or post.arxiv or post.code %}
         <div style="font-size: 12px;">
           {% if post.project_page %}<a href="{{ post.project_page }}" target="_blank" rel="noopener">Project Page</a>{% endif %}
           {% if post.project_page and post.paperurl %} / {% endif %}{% if post.paperurl %}<a href="{{ post.paperurl }}" target="_blank" rel="noopener">Paper</a>{% endif %}
