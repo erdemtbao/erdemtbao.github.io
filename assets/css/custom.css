@@ -81,7 +81,10 @@ html { zoom: 1; }
 /* Publication tables like old site */
 .tb-publications { border-collapse: collapse; margin-top: 0; margin-bottom: 0; }
 .tb-publications td { vertical-align: middle; }
-.tb-publications.publication-highlight { background-color: #ffffdf; }
+.home-old__main .tb-publications.publication-highlight,
+.home-old__main .tb-publications.publication-highlight > tbody > tr > td {
+  background-color: #ffffdf !important;
+}
 .publication-link-disabled { color: #6b7280; cursor: not-allowed; }
 /* Publications: uniform thumbnail size for alignment */
 .tb-publications .pub-thumb-wrap {
