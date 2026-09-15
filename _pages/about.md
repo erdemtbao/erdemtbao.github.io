@@ -14,6 +14,8 @@ Hi there! My name is **Erdemt Bao**, and I am currently a final-year master's st
 
 My research interests lie in **Robot Learning**, with a particular focus on **Vision-Language-Action (VLA) models, World Action Models (WAMs), and Robot Skill Learning**.
 
+The *I Ching* describes that **“All things arise from the same origin and unfold through transformation.”** Guided by this principle, I aim to uncover the common representations underlying diverse robot experiences, seeking the underlying principles through which intelligent systems transform countless interactions with the world into structured knowledge and meaningful understanding, ultimately giving rise to intelligent behavior.
+
 Please feel free to contact me at [Email](mailto:baoerdemt366@gmail.com) if you are interested in my work or would like to collaborate with me. 😄<br>
 
 <!-- I am currently seeking opportunities to apply for PhD programs for Fall 2027.  -->
