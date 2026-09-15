@@ -14,9 +14,9 @@ Hi there! My name is **Erdemt Bao**, and I am currently a final-year master's st
 
 My research interests lie in **Robot Learning**, with a particular focus on **Vision-Language-Action (VLA) models, World Action Models (WAMs), and Robot Skill Learning**.
 
-The *I Ching* describes that **“All things arise from the same origin and unfold through transformation.”** Guided by this principle, I aim to uncover the common representations underlying diverse robot experiences, seeking the underlying principles through which intelligent systems transform countless interactions with the world into structured knowledge and meaningful understanding, ultimately giving rise to intelligent behavior.
+The *I Ching* teaches that **“All things arise from the same origin and unfold through transformation.”** Guided by this idea, I aim to uncover the shared representations underlying diverse robotic experiences and to understand how intelligent systems transform countless interactions with the world into structured knowledge and meaningful understanding, ultimately giving rise to intelligent behavior.
 
-Please feel free to contact me at [Email](mailto:baoerdemt366@gmail.com) if you are interested in my work or would like to collaborate with me. 😄<br>
+Please feel free to contact me by [email](mailto:baoerdemt366@gmail.com) if you are interested in my work or would like to collaborate with me. 😄<br>
 
 <!-- I am currently seeking opportunities to apply for PhD programs for Fall 2027.  -->
 
@@ -28,8 +28,8 @@ Please feel free to contact me at [Email](mailto:baoerdemt366@gmail.com) if you 
 
 - *2026.07*: &nbsp;🎉 Thrilled to have exhibited at WAIC 2026 in Shanghai!
 - *2025.11*: &nbsp;🎉 WaveComm has been accepted to ICRA 2026!
-- *2025.06*: &nbsp;🎉 [Our team wins a first prize in RoboTwin Dual-Arm Collaboration Challenge of CVPR 2025 (Real-world Track)!](https://miaa.cc/2025-06-19-robotwin-challenge/).
-- *2025.05*: &nbsp;🎉 [Our team wins a silver medal in RoboTwin Dual-Arm Collaboration Challenge of CVPR 2025 (Simulation Round 1)!](https://miaa.cc/2025-05-08-robotwin-challenge/).
+- *2025.06*: &nbsp;🎉 [Our team won first prize in the Real-World Track of the CVPR 2025 RoboTwin Dual-Arm Collaboration Challenge!](https://miaa.cc/2025-06-19-robotwin-challenge/)
+- *2025.05*: &nbsp;🎉 [Our team won a silver medal in Simulation Round 1 of the CVPR 2025 RoboTwin Dual-Arm Collaboration Challenge!](https://miaa.cc/2025-05-08-robotwin-challenge/)
 
 ---
 
@@ -137,9 +137,9 @@ Please feel free to contact me at [Email](mailto:baoerdemt366@gmail.com) if you 
 ## Reports & Media {#reports}
 
 <div style="font-size: 15px">
-[05/2024] <a href="https://mp.weixin.qq.com/s/WEnskOukav5cQsm6CXvilA" target="_blank" rel="noopener">《放榜！第十八届"理工青年十大风云学子""理工青年十大精英团队"发布！》</a><br>the wechat official account of WHUT Youth League committee, over 6,000 views.<br>
-[04/2024] <a href="https://mp.weixin.qq.com/s/gQ213_tOPVilCEQZjfAyZg" target="_blank" rel="noopener">《这个勤奋、热心的蒙古族帅小伙，他是包额尔德木图！》</a><br>the wechat official account of WHUT, over 8,000 views.<br>
-[12/2023] <a href="http://218.197.103.36/xywh/xyrw/202503/t20250312_1321234.shtml" target="_blank" rel="noopener">《【闪亮的名字】包额尔德木图：从内蒙古草原到大学校园，将感恩融入服务和成长中》</a><br>the official web of WHUT School of Automation.<br>
+[05/2024] <a href="https://mp.weixin.qq.com/s/WEnskOukav5cQsm6CXvilA" target="_blank" rel="noopener">《放榜！第十八届"理工青年十大风云学子""理工青年十大精英团队"发布！》</a><br>Published by the official WeChat account of the WHUT Youth League Committee; over 6,000 views.<br>
+[04/2024] <a href="https://mp.weixin.qq.com/s/gQ213_tOPVilCEQZjfAyZg" target="_blank" rel="noopener">《这个勤奋、热心的蒙古族帅小伙，他是包额尔德木图！》</a><br>Published by WHUT's official WeChat account; over 8,000 views.<br>
+[12/2023] <a href="http://218.197.103.36/xywh/xyrw/202503/t20250312_1321234.shtml" target="_blank" rel="noopener">《【闪亮的名字】包额尔德木图：从内蒙古草原到大学校园，将感恩融入服务和成长中》</a><br>Published on the official website of the WHUT School of Automation.<br>
 </div>
 
 ---
