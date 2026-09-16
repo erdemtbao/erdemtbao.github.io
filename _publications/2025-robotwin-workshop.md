@@ -9,11 +9,11 @@ venue: 'Technical Report of the CVPR 2025 RoboTwin Challenge at the MEIS Worksho
 project_page: 'https://robotwin-benchmark.github.io/cvpr-2025-challenge/'
 paperurl: 'https://arxiv.org/abs/2506.23351'
 arxiv: 'https://arxiv.org/abs/2506.23351'
-authors: 'All Participants'
+authors: 'Tianxing Chen et al. <span style="color:#666;">(Co-author)</span>'
 teaser: /files/work/RoboTwin_workshop.mp4
 teaser_video: true
-citation: 'All Participants. &quot;Benchmarking Generalizable Bimanual Manipulation: RoboTwin Dual-Arm Collaboration Challenge at CVPR 2025 MEIS Workshop.&quot; <i>Technical Report of the CVPR 2025 RoboTwin Challenge at the MEIS Workshop</i>.'
+citation: 'Tianxing Chen et al. &quot;Benchmarking Generalizable Bimanual Manipulation: RoboTwin Dual-Arm Collaboration Challenge at CVPR 2025 MEIS Workshop.&quot; <i>Technical Report of the CVPR 2025 RoboTwin Challenge at the MEIS Workshop</i>.'
 ---
-All Participants
+Tianxing Chen et al. <span style="color:#666;">(Co-author)</span>
 
 [Project Page](https://robotwin-benchmark.github.io/cvpr-2025-challenge/) / [Paper](https://arxiv.org/abs/2506.23351) / [arXiv](https://arxiv.org/abs/2506.23351)
