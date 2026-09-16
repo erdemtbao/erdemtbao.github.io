@@ -54,8 +54,8 @@ Please feel free to contact me by [email](mailto:baoerdemt366@gmail.com) if you 
 <div style="font-size: small">Team: Digital Dynamos</div></td></tr>
 </table>
 <table class="tb-challenge" style="border-spacing: 2px; width: 100%;">
-<tr><td style="width: 210px;"><img src="/files/award/2023-MCMICM.png" width="150" alt="2023 MCM Meritorious Winner" style="box-shadow: 4px 4px 8px #888; margin-left: 30px;"></td>
-<td style="font-size: 15px;"><b style="color: #054095;">2023 Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM)</b>
+<tr><td style="width: 210px;"><img src="/files/award/2023-MCMICM.png" width="150" alt="2023 COMAP MCM Meritorious Winner" style="box-shadow: 4px 4px 8px #888; margin-left: 30px;"></td>
+<td style="font-size: 15px;"><b style="color: #054095;">2023 COMAP Mathematical Contest in Modeling (MCM)</b>
 <p><i style="font-size: 12px; color: red;"><b>Meritorious Winner</b></i></p>
 <div style="font-size: small">Team: WHUT</div></td></tr>
 </table>
@@ -78,7 +78,7 @@ Please feel free to contact me by [email](mailto:baoerdemt366@gmail.com) if you 
 <tbody>
 <tr><td style="width: 200px; padding: 10px; vertical-align: middle;">
 <div class="container"><video autoplay loop muted width="180" playsinline preload="none" poster="/files/work/2022-Pipeline-robots-poster.jpg" class="lazy-video project-video" aria-label="Pipeline inspection robot demonstration" style="box-shadow: 4px 4px 4px #888888;"><source data-src="/files/work/2022-Pipeline-robots.mp4" type="video/mp4"></video></div></td>
-<td style="padding: 10px; vertical-align: middle; font-size: 15px;"><b style="color: #054095;">A Miniature Pipeline Inspection Robot Based on Structured-Light 3D Scanning</b><div style="height: 5px;"></div><i style="font-size: 12px; color: red;"><b>Excellent Project, National Undergraduate Innovation and Entrepreneurship Training Program</b></i><div style="height: 5px;"></div><div style="font-size: small">Team: WHUT</div></td></tr>
+<td style="padding: 10px; vertical-align: middle; font-size: 15px;"><b style="color: #054095;">A Miniature Pipeline Inspection Robot Based on Structured-Light 3D Scanning</b><div style="height: 5px;"></div><i style="font-size: 12px; color: red;"><b>Excellent Project, Project Lead, National Undergraduate Innovation and Entrepreneurship Training Program</b></i><div style="height: 5px;"></div><div style="font-size: small">Team: WHUT</div></td></tr>
 </tbody>
 </table>
 <table class="tb-publications" style="width: 100%; border: none;">
