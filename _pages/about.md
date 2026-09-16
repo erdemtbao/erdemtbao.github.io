@@ -122,13 +122,13 @@ Please feel free to contact me by [email](mailto:baoerdemt366@gmail.com) if you 
 <table class="tb-education" style="width: 100%; border: none;">
 <tr><td style="width: 320px;"><img src="/files/institute/agibot.png" width="230" alt="AGIBOT Innovation" style="margin-left: 35px"></td>
 <td><p><b><a href="https://www.agibot.com/">AGIBOT Innovation (Shanghai) Technology Co., Ltd.</a></b><br><b style="font-size: 12px;">Embodied AI Research Center</b></p>
-<div style="font-size: 12px">Research Intern, VLA Post-training.</div>
+<div style="font-size: 12px">Research Intern, VLA Post-training</div>
 <div style="font-size: 12px">2026 – 2026</div></td></tr>
 </table>
 <table class="tb-education" style="width: 100%; border: none; margin-top: 20px;">
 <tr><td style="width: 320px;"><img src="/files/institute/scut.png" width="230" alt="South China University of Technology" style="margin-left: 35px"></td>
 <td><p><b>South China University of Technology (SCUT)</b><br><b style="font-size: 12px;"><a href="https://miaa.cc/">MIAA Lab</a></b></p>
-<div style="font-size: 12px">Research Intern, Robot Skill Learning.</div>
+<div style="font-size: 12px">Research Intern, Robot Skill Learning</div>
 <div style="font-size: 12px">2025 – 2026</div></td></tr>
 </table>
 
