@@ -54,8 +54,8 @@ Please feel free to contact me by [email](mailto:baoerdemt366@gmail.com) if you 
 <div style="font-size: small">Team: Digital Dynamos</div></td></tr>
 </table>
 <table class="tb-challenge" style="border-spacing: 2px; width: 100%;">
-<tr><td style="width: 210px;"><img src="/files/award/2023-MCMICM.png" width="150" alt="2023 MCM/ICM Meritorious Winner" style="box-shadow: 4px 4px 8px #888; margin-left: 30px;"></td>
-<td style="font-size: 15px;"><b style="color: #054095;">2023 Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM)</b>
+<tr><td style="width: 210px;"><img src="/files/award/2023-MCMICM.png" width="150" alt="2023 MCM Meritorious Winner" style="box-shadow: 4px 4px 8px #888; margin-left: 30px;"></td>
+<td style="font-size: 15px;"><b style="color: #054095;">2023 Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM)</b>
 <p><i style="font-size: 12px; color: red;"><b>Meritorious Winner</b></i></p>
 <div style="font-size: small">Team: WHUT</div></td></tr>
 </table>
