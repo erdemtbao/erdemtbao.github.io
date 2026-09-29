@@ -28,7 +28,7 @@ Please feel free to contact me by [email](mailto:baoerdemt366@gmail.com) if you 
 
 - *2026.09*: &nbsp;🎉 HyperSkill is accepted to **NeurIPS 2026**!
 - *2026.07*: &nbsp;🎉 Thrilled to have exhibited at WAIC 2026 in Shanghai!
-- *2025.11*: &nbsp;🎉 WaveComm has been accepted to ICRA 2026!
+- *2025.11*: &nbsp;🎉 WaveComm is accepted to ICRA 2026!
 - *2025.06*: &nbsp;🎉 [Our team won first prize in the Real-World Track of the CVPR 2025 RoboTwin Dual-Arm Collaboration Challenge!](https://miaa.cc/2025-06-19-robotwin-challenge/)
 - *2025.05*: &nbsp;🎉 [Our team won a silver medal in Simulation Round 1 of the CVPR 2025 RoboTwin Dual-Arm Collaboration Challenge!](https://miaa.cc/2025-05-08-robotwin-challenge/)
 
