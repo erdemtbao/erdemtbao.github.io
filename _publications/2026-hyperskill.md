@@ -1,14 +1,14 @@
 ---
 title: "HyperSkill: Multi-Modal Skill Learning on the Unit Hypersphere"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2026-hyperskill
-order: 2
+order: 3
 highlight: true
 show_empty_links: true
-venue: 'Under Review'
+venue: 'NeurIPS 2026'
 authors: '<b><u>Erdemt Bao<sup>*</sup></u></b>, Jun Chen<sup>*</sup>, Weijun Qin, Shaopeng Li, Ming Li, Mengchen Zhao, Ziqian Zeng, Cen Chen, Huiping Zhuang<sup>†</sup>'
-citation: 'Erdemt Bao*, Jun Chen*, Weijun Qin, Shaopeng Li, Ming Li, Mengchen Zhao, Ziqian Zeng, Cen Chen, Huiping Zhuang†. &quot;HyperSkill: Multi-Modal Skill Learning on the Unit Hypersphere.&quot; <i>Under Review</i>.'
+citation: 'Erdemt Bao*, Jun Chen*, Weijun Qin, Shaopeng Li, Ming Li, Mengchen Zhao, Ziqian Zeng, Cen Chen, Huiping Zhuang†. &quot;HyperSkill: Multi-Modal Skill Learning on the Unit Hypersphere.&quot; <i>NeurIPS 2026</i>.'
 teaser: /files/work/2026-HyperSkill.jpg
 ---
 <b><u>Erdemt Bao<sup>*</sup></u></b>, Jun Chen<sup>*</sup>, Weijun Qin, Shaopeng Li, Ming Li, Mengchen Zhao, Ziqian Zeng, Cen Chen, Huiping Zhuang<sup>†</sup>
